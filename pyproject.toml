@@ -1,7 +1,23 @@
 [project]
 name = "eda-disque100-completo"
 version = "0.1.0"
-description = "Add your description here"
+description = "Analysing Human Trafficking"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.9",
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "scikit-learn>=1.5",
+]
+
+[tool.uv]
+# usa a trust store do sistema em vez do bundled webpki-roots 
+#system-certs = true
+native-tls = true
+
+[[tool.uv.index]]
+name = "bcb"
+url = "https://repo.bcnet.bcb.gov.br/api/pypi/pypi/simple"
+default = true
