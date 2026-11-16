@@ -1,19 +1,86 @@
 ﻿column,raw_value,count,percent_rows
+denuncia_emergencial,N/D,1,0.01
+cenario_da_violacao,NÃO SABE INFORMAR,242,2.88
+uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,9.2
+uf,N/D,136,1.62
+uf,ATENDIMENTO INTERROMPIDO,18,0.21
+municipio,DENUNCIANTE NÃO SOUBE INFORMAR,781,9.3
+municipio,N/D,136,1.62
+municipio,ATENDIMENTO INTERROMPIDO,18,0.21
+frequencia,NÃO SABE INFORMAR,1553,18.49
+frequencia,N/D,17,0.2
+inicio_das_violacoes,NÃO SABE INFORMAR,1505,17.91
 inicio_das_violacoes,NÃO SE APLICA,1046,12.45
+inicio_das_violacoes,N/D,23,0.27
+motivacao,N/D,221,2.63
+relacao_vitima_suspeito,NÃO SABE INFORMAR,385,4.58
 relacao_vitima_suspeito,NÃO SE APLICA,317,3.77
+relacao_vitima_suspeito,N/D,29,0.35
+genero_da_vitima,N/D,354,4.21
+genero_da_vitima,NÃO SE APLICA - VÍTIMA COMUNIDADE/FAMÍLIA,345,4.11
 genero_da_vitima,NÃO INFORMADO,320,3.81
+orientacao_sexual_da_vitima,N/D,945,11.25
 orientacao_sexual_da_vitima,NÃO INFORMADO,391,4.65
 faixa_etaria_da_vitima,NÃO INFORMADO,70,0.83
+nacionalidade_da_vitima,N/D,97,1.15
+sl_vitima_naturalizado_uf,DENUNCIANTE NÃO SOUBE INFORMAR,52,0.62
+sl_vitima_naturalizado_municipio,DENUNCIANTE NÃO SOUBE INFORMAR,15,0.18
+deficiencia_da_vitima,N/D,817,9.73
 deficiencia_da_vitima,NÃO INFORMADO,32,0.38
+doenca_rara_da_vitima,N/D,252,3.0
+deficiencia_relacionada_a_doenca_rara,NÃO SABE INFORMAR,10,0.12
+vitima_preso_a,N/D,740,8.81
 vitima_preso_a,NÃO INFORMADO,543,6.46
+uf_da_vitima,DENUNCIANTE NÃO SOUBE INFORMAR,1228,14.62
+uf_da_vitima,ATENDIMENTO INTERROMPIDO,148,1.76
+uf_da_vitima,N/D,40,0.48
+municipio_da_vitima,DENUNCIANTE NÃO SOUBE INFORMAR,1225,14.58
+municipio_da_vitima,ATENDIMENTO INTERROMPIDO,138,1.64
+municipio_da_vitima,N/D,98,1.17
+municipio_da_vitima,ATENDIMENTO INTERRPOMPIDO,18,0.21
+profissao_da_vitima,N/D,916,10.9
+profissao_da_vitima,NÃO SABE INFORMAR,193,2.3
+grau_de_instrucao_da_vitima,N/D,819,9.75
+religiao_da_vitima,N/D,887,10.56
 religiao_da_vitima,NÃO SABE,260,3.09
 raca_cor_da_vitima,NÃO INFORMADO,3210,38.21
+raca_cor_da_vitima,N/D,599,7.13
+etnia_da_vitima,N/D,915,10.89
+faixa_de_renda_da_vitima,N/D,857,10.2
+genero_do_suspeito,N/D,252,3.0
 genero_do_suspeito,NÃO INFORMADO,218,2.59
+genero_do_suspeito,NÃO SE APLICA - VÍTIMA COMUNIDADE/FAMÍLIA,49,0.58
+orientacao_sexual_do_suspeito,N/D,925,11.01
 orientacao_sexual_do_suspeito,NÃO INFORMADO,75,0.89
 faixa_etaria_do_suspeito,NÃO INFORMADO,955,11.37
+faixa_etaria_do_suspeito,N/D,333,3.96
+suspeito_nacionalidade,N/D,186,2.21
+sl_suspeito_naturalizado_uf,DENUNCIANTE NÃO SOUBE INFORMAR,98,1.17
+sl_suspeito_naturalizado_municipio,DENUNCIANTE NÃO SOUBE INFORMAR,31,0.37
+deficiencia_do_suspeito,N/D,801,9.53
 deficiencia_do_suspeito,NÃO INFORMADO,26,0.31
+doenca_rara_do_suspeito,N/D,206,2.45
+deficiencia_relacionada_a_doenca_rara_suspeito,NÃO SABE INFORMAR,730,8.69
 suspeito_preso,NÃO INFORMADO,1476,17.57
+suspeito_preso,N/D,665,7.92
+uf_do_suspeito,DENUNCIANTE NÃO SOUBE INFORMAR,1000,11.9
+uf_do_suspeito,N/D,142,1.69
+uf_do_suspeito,ATENDIMENTO INTERROMPIDO,60,0.71
+sl_suspeito_municipio,DENUNCIANTE NÃO SOUBE INFORMAR,1038,12.36
+sl_suspeito_municipio,N/D,151,1.8
+sl_suspeito_municipio,ATENDIMENTO INTERROMPIDO,60,0.71
+sl_suspeito_municipio,ATENDIMENTO INTERRPOMPIDO,18,0.21
+profissao_do_suspeito,NÃO SABE INFORMAR,1999,23.79
+profissao_do_suspeito,N/D,802,9.55
+grau_de_instrucao_do_suspeito,N/D,740,8.81
+religiao_do_suspeito,N/D,869,10.34
 religiao_do_suspeito,NÃO SABE,120,1.43
 raca_cor_do_suspeito,NÃO INFORMADO,1012,12.05
+raca_cor_do_suspeito,N/D,428,5.09
+suspeito_etnia,N/D,915,10.89
+faixa_de_renda_do_suspeito,N/D,785,9.34
+sl_suspeito_ramo,N/D,925,11.01
+suspeito_especificacao_etnia,N/D,915,10.89
 suspeito_especificacao_etnia,NÃO INFORMADO,39,0.46
+vitima_especificacao_etnia,N/D,933,11.11
 vitima_especificacao_etnia,NÃO INFORMADO,28,0.33

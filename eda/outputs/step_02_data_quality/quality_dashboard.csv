@@ -1,9 +1,9 @@
 ﻿quality_dimension,indicator,count
-Completeness,Effective missing cells,215950
+Completeness,Effective missing cells,249552
 Uniqueness,Exact duplicate rows,0
 Uniqueness,Rows with repeated hash,8304
 Consistency,Whitespace issue instances,77
 Consistency,Variant-group affected records,80
-Validity,Domain violation instances,3695
+Validity,Domain violation instances,0
 Validity,Date/quantity rule violations,963
-Consistency,Cross-field rule violations,637
+Consistency,Cross-field rule violations,487

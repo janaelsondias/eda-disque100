@@ -1,7 +1,7 @@
 ﻿rule,violations,percent_rows,explanation
 rare disease = no but related disability is populated,0,0.0,Review whether the related-disability field should be applicable.
 suspect rare disease = no but related disability is populated,0,0.0,Review conditional applicability.
-Brazilian victim with naturalization UF populated,260,3.09,May be valid for naturalized Brazilians; verify field semantics.
-Brazilian suspect with naturalization UF populated,355,4.23,May be valid for naturalized Brazilians; verify field semantics.
+Brazilian victim with naturalization UF populated,208,2.48,May be valid for naturalized Brazilians; verify field semantics.
+Brazilian suspect with naturalization UF populated,257,3.06,May be valid for naturalized Brazilians; verify field semantics.
 victim ethnicity specification without ethnicity,16,0.19,Specification normally requires a parent ethnicity value.
 suspect ethnicity specification without ethnicity,6,0.07,Specification normally requires a parent ethnicity value.

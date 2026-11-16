@@ -1,4 +1,4 @@
-﻿column,dtype,non_null,physical_null,physical_null_pct,unique_non_null,sample_values,unique_pct_rows,normalized_name,domain,description
+﻿column,dtype,non_null,real_missing,real_missing_pct,unique_non_null,sample_values,unique_pct_rows,normalized_name,domain,description
 hash,str,8401,0,0.0,1263,79c48e0d422d3ab1a306f8d7e498b8be | 0b9e67b28384351a4006c49ba3ff66b7 | 6fa1ed73ec4c3f385683c9fc03a3c062 | ba12fedf0ff1a3bbe12b853e0ae2da65 | 768c1101183c832a691252877bc2f5c2,15.03,hash,identifier,Record or report identifier; uniqueness must be verified.
 data_de_cadastro,str,8401,0,0.0,640,2021-01-08 23:11:00 | 2021-01-14 07:11:00 | 2021-01-12 07:34:00 | 2021-01-13 02:28:00 | 2021-01-13 18:24:00,7.62,data_de_cadastro,report,Registration date and time.
 canal_de_atendimento,str,8401,0,0.0,8,TELEFÔNICO | CARTA | WHATSAPP | TELEGRAM | WEBCHAT,0.1,canal_de_atendimento,report,Report intake channel.
