@@ -3,6 +3,7 @@ raca_cor_da_vitima,3809
 profissao_do_suspeito,2801
 inicio_das_violacoes,2574
 suspeito_preso,2141
+relacao_vitima_suspeito,2103
 frequencia,1570
 municipio_da_vitima,1479
 raca_cor_do_suspeito,1440
@@ -31,7 +32,6 @@ deficiencia_do_suspeito,827
 grau_de_instrucao_da_vitima,819
 faixa_de_renda_do_suspeito,785
 grau_de_instrucao_do_suspeito,740
-relacao_vitima_suspeito,731
 deficiencia_relacionada_a_doenca_rara_suspeito,730
 violacao,557
 genero_do_suspeito,519

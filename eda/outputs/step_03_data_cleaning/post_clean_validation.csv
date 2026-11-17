@@ -1,9 +1,0 @@
-﻿check,status,value
-row_count_not_increased,PASS,8401
-column_names_unique,PASS,0
-hash_present,PASS,True
-no_residual_whitespace_issues,PASS,0
-no_residual_text_missing_tokens,PASS,0
-all_uf_values_valid,REVIEW,3695
-no_future_registration_dates,PASS,0
-victim_quantity_positive,PASS,0

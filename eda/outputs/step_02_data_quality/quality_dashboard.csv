@@ -1,5 +1,5 @@
 ﻿quality_dimension,indicator,count
-Completeness,Effective missing cells,249552
+Completeness,Effective missing cells,250924
 Uniqueness,Exact duplicate rows,0
 Uniqueness,Rows with repeated hash,8304
 Consistency,Whitespace issue instances,77

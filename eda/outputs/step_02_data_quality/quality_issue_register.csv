@@ -1,5 +1,5 @@
 ﻿dimension,column_or_scope,issue,affected,percent_rows,priority,recommended_action
-completeness,relacao_vitima_suspeito,effective missingness,731,8.7,critical,Assess applicability and analytical impact; do not delete automatically.
+completeness,relacao_vitima_suspeito,effective missingness,2103,25.03,critical,Assess applicability and analytical impact; do not delete automatically.
 completeness,cenario_da_violacao,effective missingness,242,2.88,critical,Assess applicability and analytical impact; do not delete automatically.
 completeness,violacao,effective missingness,190,2.26,critical,Assess applicability and analytical impact; do not delete automatically.
 completeness,denuncia_emergencial,effective missingness,1,0.01,critical,Assess applicability and analytical impact; do not delete automatically.

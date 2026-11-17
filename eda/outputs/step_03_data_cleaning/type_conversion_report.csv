@@ -1,3 +1,0 @@
-﻿column,target_dtype,invalid_values,converted_values,note
-data_de_cadastro,datetime64[ns],0,8401,
-sl_quantidade_vitimas,Int64,0,8401,Nonparseable source values remain missing after coercion and must be reviewed.

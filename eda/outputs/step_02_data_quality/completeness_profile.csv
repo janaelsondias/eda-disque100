@@ -35,6 +35,7 @@ inicio_das_violacoes,analytical,0,2574,2574,30.64,69.36
 genero_do_suspeito,analytical,1663,519,2182,25.97,74.03
 genero_da_vitima,analytical,1134,1019,2153,25.63,74.37
 municipio_da_vitima,analytical,641,1479,2120,25.24,74.76
+relacao_vitima_suspeito,core,0,2103,2103,25.03,74.97
 uf_da_vitima,analytical,588,1416,2004,23.85,76.15
 doenca_rara_do_suspeito,analytical,1658,206,1864,22.19,77.81
 sl_suspeito_municipio,analytical,505,1267,1772,21.09,78.91
@@ -43,7 +44,6 @@ frequencia,analytical,0,1570,1570,18.69,81.31
 municipio,analytical,591,935,1526,18.16,81.84
 uf,analytical,573,927,1500,17.86,82.14
 doenca_rara_da_vitima,analytical,1231,252,1483,17.65,82.35
-relacao_vitima_suspeito,core,0,731,731,8.7,91.3
 faixa_etaria_da_vitima,analytical,405,70,475,5.65,94.35
 cenario_da_violacao,core,0,242,242,2.88,97.12
 suspeito_nacionalidade,analytical,9,186,195,2.32,97.68
