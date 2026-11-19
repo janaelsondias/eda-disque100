@@ -1,0 +1,8 @@
+﻿check,status,value
+row_count_preserved,PASS,8401
+column_names_unique,PASS,0
+feature_names_unique,PASS,87
+victim_quantity_positive,PASS,0
+pct_perfil_vitima_preenchido_range_0_100,PASS,0
+pct_perfil_suspeito_preenchido_range_0_100,PASS,0
+pct_campos_fonte_preenchidos_range_0_100,PASS,0

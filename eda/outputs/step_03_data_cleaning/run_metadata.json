@@ -1,0 +1,12 @@
+{
+  "run_timestamp_utc": "2026-11-19T14:07:12.997123+00:00",
+  "source_path": "..\\data\\trafico-pessoas-com-outras-violacoes-2021-2025.csv",
+  "source_sha256": "ddd5edb25d9aa8b2b07ed48854ff65e5f0bd42f8cb2001dcb6e2ae4553a3e6d4",
+  "source_rows": 8401,
+  "source_columns": 62,
+  "analysis_rows": 8401,
+  "analysis_columns": 148,
+  "engineered_features": 87,
+  "numeric_missing_codes_processed": false,
+  "exact_duplicates_removed": false
+}

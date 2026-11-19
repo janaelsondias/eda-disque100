@@ -1,0 +1,88 @@
+﻿feature,domain,source_columns,definition,type,leakage_risk
+faixa_etaria_recodificada,victim,faixa_etaria_da_vitima,Research age-group recoding,ordered categorical,low
+faixa_etaria_ordinal,victim,faixa_etaria_recodificada,Ordinal code for recoded age group,integer,low
+genero_vitima_comunidade_familia,victim,genero_da_vitima,Victim represents community/family rather than an individual gender category,boolean,low
+motivacao_limpa,complaint,motivacao,Motivation after prefix removal and specified first-chunk rule,categorical,low
+municipio_chave_busca_ibge,geographic,"uf, municipio_nome",Composite UF|municipality key for IBGE lookup,string,low
+municipio_codigo_ibge_origem,geographic,municipio,Source IBGE code when present; accepts 6 or 7 digits,string,low
+municipio_nome,geographic,municipio,Municipality name extracted from source,string,low
+municipio_da_vitima_chave_busca_ibge,geographic,"uf_da_vitima, municipio_da_vitima_nome",Composite UF|municipality key for IBGE lookup,string,low
+municipio_da_vitima_codigo_ibge_origem,geographic,municipio_da_vitima,Source IBGE code when present; accepts 6 or 7 digits,string,low
+municipio_da_vitima_nome,geographic,municipio_da_vitima,Municipality name extracted from source,string,low
+sl_suspeito_municipio_chave_busca_ibge,geographic,"uf_do_suspeito, sl_suspeito_municipio_nome",Composite UF|municipality key for IBGE lookup,string,low
+sl_suspeito_municipio_codigo_ibge_origem,geographic,sl_suspeito_municipio,Source IBGE code when present; accepts 6 or 7 digits,string,low
+sl_suspeito_municipio_nome,geographic,sl_suspeito_municipio,Municipality name extracted from source,string,low
+sl_suspeito_naturalizado_municipio_chave_busca_ibge,geographic,"sl_suspeito_naturalizado_uf, sl_suspeito_naturalizado_municipio_nome",Composite UF|municipality key for IBGE lookup,string,low
+sl_suspeito_naturalizado_municipio_codigo_ibge_origem,geographic,sl_suspeito_naturalizado_municipio,Source IBGE code when present; accepts 6 or 7 digits,string,low
+sl_suspeito_naturalizado_municipio_nome,geographic,sl_suspeito_naturalizado_municipio,Municipality name extracted from source,string,low
+sl_vitima_naturalizado_municipio_chave_busca_ibge,geographic,"sl_vitima_naturalizado_uf, sl_vitima_naturalizado_municipio_nome",Composite UF|municipality key for IBGE lookup,string,low
+sl_vitima_naturalizado_municipio_codigo_ibge_origem,geographic,sl_vitima_naturalizado_municipio,Source IBGE code when present; accepts 6 or 7 digits,string,low
+sl_vitima_naturalizado_municipio_nome,geographic,sl_vitima_naturalizado_municipio,Municipality name extracted from source,string,low
+nacionalidade_da_vitima_codigo_pais,geographic,nacionalidade_da_vitima,Country code extracted before |; missing when absent,string,low
+nacionalidade_da_vitima_nome_pais,geographic,nacionalidade_da_vitima,Country name extracted from source,string,low
+pais_codigo_pais,geographic,pais,Country code extracted before |; missing when absent,string,low
+pais_nome_pais,geographic,pais,Country name extracted from source,string,low
+pais_da_vitima_codigo_pais,geographic,pais_da_vitima,Country code extracted before |; missing when absent,string,low
+pais_da_vitima_nome_pais,geographic,pais_da_vitima,Country name extracted from source,string,low
+pais_do_suspeito_codigo_pais,geographic,pais_do_suspeito,Country code extracted before |; missing when absent,string,low
+pais_do_suspeito_nome_pais,geographic,pais_do_suspeito,Country name extracted from source,string,low
+suspeito_nacionalidade_codigo_pais,geographic,suspeito_nacionalidade,Country code extracted before |; missing when absent,string,low
+suspeito_nacionalidade_nome_pais,geographic,suspeito_nacionalidade,Country name extracted from source,string,low
+violacao_nivel_1,violation,violacao,Direitos a serem tutelados sob a perspectiva dos direitos humanos,categorical,low
+violacao_nivel_2,violation,violacao,Bem jurídico em sentido estrito,categorical,low
+violacao_nivel_3,violation,violacao,Espécies de violações a determinado bem jurídico protegido,categorical,low
+violacao_nivel_4,violation,violacao,Detalhamento de violações a determinada espécie,categorical,low
+violacao_nivel_3_originalmente_ausente,violation,violacao_nivel_3,Flags level-3 backfill,boolean,low
+violacao_numero_niveis_informados,violation,violacao,"Number of source hierarchy chunks, capped at four",integer,low
+violacao_numero_niveis_gerados,violation,violacao,Number of generated hierarchy columns,integer,low
+ano_cadastro,temporal,data_de_cadastro,ano cadastro,Int64,low
+trimestre_cadastro,temporal,data_de_cadastro,trimestre cadastro,Int64,low
+semestre_cadastro,temporal,data_de_cadastro,semestre cadastro,Int64,low
+mes_cadastro,temporal,data_de_cadastro,mes cadastro,Int64,low
+ano_mes_cadastro,temporal,data_de_cadastro,ano mes cadastro,string,low
+semana_iso_cadastro,temporal,data_de_cadastro,semana iso cadastro,Int64,low
+dia_mes_cadastro,temporal,data_de_cadastro,dia mes cadastro,Int64,low
+dia_semana_num,temporal,data_de_cadastro,dia semana num,Int64,low
+dia_semana_cadastro,temporal,data_de_cadastro,dia semana cadastro,string,low
+fim_de_semana,temporal,data_de_cadastro,fim de semana,boolean,low
+hora_cadastro,temporal,data_de_cadastro,hora cadastro,Int64,low
+dias_desde_primeiro_registro,temporal,data_de_cadastro,dias desde primeiro registro,Int64,low
+periodo_dia_cadastro,temporal,data_de_cadastro,Time-of-day band from registration hour,categorical,low
+uf_denuncia_valida,geographic,uf,UF belongs to 27 official codes,boolean,low
+regiao_denuncia,geographic,uf,Brazilian macro-region derived from UF,categorical,low
+localizacao_denuncia_brasil,geographic,pais,Country indicates Brazil,boolean,low
+completude_localizacao_denuncia,geographic,"pais, uf, municipio","Count of populated country, UF, municipality fields",integer,low
+uf_vitima_valida,geographic,uf_da_vitima,UF belongs to 27 official codes,boolean,low
+regiao_vitima,geographic,uf_da_vitima,Brazilian macro-region derived from UF,categorical,low
+localizacao_vitima_brasil,geographic,pais_da_vitima,Country indicates Brazil,boolean,low
+completude_localizacao_vitima,geographic,"pais_da_vitima, uf_da_vitima, municipio_da_vitima","Count of populated country, UF, municipality fields",integer,low
+uf_suspeito_valida,geographic,uf_do_suspeito,UF belongs to 27 official codes,boolean,low
+regiao_suspeito,geographic,uf_do_suspeito,Brazilian macro-region derived from UF,categorical,low
+localizacao_suspeito_brasil,geographic,pais_do_suspeito,Country indicates Brazil,boolean,low
+completude_localizacao_suspeito,geographic,"pais_do_suspeito, uf_do_suspeito, sl_suspeito_municipio","Count of populated country, UF, municipality fields",integer,low
+campos_perfil_vitima_preenchidos,victim,"genero_da_vitima, orientacao_sexual_da_vitima, faixa_etaria_da_vitima, nacionalidade_da_vitima, deficiencia_da_vitima, doenca_rara_da_vitima, vitima_preso_a, profissao_da_vitima, grau_de_instrucao_da_vitima, religiao_da_vitima, raca_cor_da_vitima, etnia_da_vitima, faixa_de_renda_da_vitima",Number of populated victim profile fields,integer,low
+pct_perfil_vitima_preenchido,victim,"genero_da_vitima, orientacao_sexual_da_vitima, faixa_etaria_da_vitima, nacionalidade_da_vitima, deficiencia_da_vitima, doenca_rara_da_vitima, vitima_preso_a, profissao_da_vitima, grau_de_instrucao_da_vitima, religiao_da_vitima, raca_cor_da_vitima, etnia_da_vitima, faixa_de_renda_da_vitima",Percentage of populated victim profile fields,numeric,low
+vitima_com_deficiencia,victim,deficiencia_da_vitima,Positive-response indicator,boolean,low
+vitima_com_doenca_rara,victim,doenca_rara_da_vitima,Positive-response indicator,boolean,low
+vitima_em_privacao_liberdade,victim,vitima_preso_a,Positive-response indicator,boolean,low
+vitima_crianca_adolescente,victim,faixa_etaria_da_vitima,Broad child/adolescent label indicator; review against official age domain,boolean,low
+vitima_idosa,victim,faixa_etaria_da_vitima,Broad older-person label indicator; review against official age domain,boolean,low
+campos_perfil_suspeito_preenchidos,suspect,"natureza_juridica_do_suspeito, genero_do_suspeito, orientacao_sexual_do_suspeito, faixa_etaria_do_suspeito, suspeito_nacionalidade, deficiencia_do_suspeito, doenca_rara_do_suspeito, suspeito_preso, profissao_do_suspeito, grau_de_instrucao_do_suspeito, religiao_do_suspeito, raca_cor_do_suspeito, suspeito_etnia, faixa_de_renda_do_suspeito",Number of populated suspect profile fields,integer,low
+pct_perfil_suspeito_preenchido,suspect,"natureza_juridica_do_suspeito, genero_do_suspeito, orientacao_sexual_do_suspeito, faixa_etaria_do_suspeito, suspeito_nacionalidade, deficiencia_do_suspeito, doenca_rara_do_suspeito, suspeito_preso, profissao_do_suspeito, grau_de_instrucao_do_suspeito, religiao_do_suspeito, raca_cor_do_suspeito, suspeito_etnia, faixa_de_renda_do_suspeito",Percentage of populated suspect profile fields,numeric,low
+suspeito_com_deficiencia,suspect,deficiencia_do_suspeito,Positive-response indicator,boolean,low
+suspeito_com_doenca_rara,suspect,doenca_rara_do_suspeito,Positive-response indicator,boolean,low
+suspeito_em_privacao_liberdade,suspect,suspeito_preso,Positive-response indicator,boolean,low
+suspeito_pessoa_juridica,suspect,natureza_juridica_do_suspeito,Legal-entity or institution label indicator,boolean,low
+contexto_relacao_vitima_suspeito,relationship,relacao_vitima_suspeito,Broad relationship context from transparent label rules,categorical,low
+denuncia_emergencial_flag,complaint,denuncia_emergencial,Positive emergency-response indicator,boolean,depends_on_target
+denuncia_coletiva,complaint,sl_quantidade_vitimas,More than one victim,boolean,low
+faixa_quantidade_vitimas,complaint,sl_quantidade_vitimas,Victim-count band,ordinal categorical,low
+log1p_quantidade_vitimas,complaint,sl_quantidade_vitimas,Natural log of 1 plus victim count,numeric,low
+violacao_nivel_profundidade,violation,violacao,"Number of textual hierarchy levels separated by >, /, |, or ;",integer,low
+violacao_multirrotulo_textual,violation,violacao,Text contains multi-label delimiter | or ;,boolean,low
+familia_violacao,violation,violacao,Official violation family mapping; empty until map supplied,categorical,low
+campos_fonte_preenchidos,quality,"hash, data_de_cadastro, canal_de_atendimento, denuncia_emergencial, denunciante, cenario_da_violacao, pais, uf, municipio, frequencia, inicio_das_violacoes, sl_quantidade_vitimas, grupo_vulneravel, motivacao, relacao_vitima_suspeito, sl_vitima_cadastro, genero_da_vitima, orientacao_sexual_da_vitima, faixa_etaria_da_vitima, nacionalidade_da_vitima, sl_vitima_naturalizado_uf, sl_vitima_naturalizado_municipio, deficiencia_da_vitima, doenca_rara_da_vitima, deficiencia_relacionada_a_doenca_rara, vitima_preso_a, pais_da_vitima, uf_da_vitima, municipio_da_vitima, profissao_da_vitima, grau_de_instrucao_da_vitima, religiao_da_vitima, raca_cor_da_vitima, etnia_da_vitima, faixa_de_renda_da_vitima, natureza_juridica_do_suspeito, genero_do_suspeito, orientacao_sexual_do_suspeito, faixa_etaria_do_suspeito, suspeito_nacionalidade, sl_suspeito_naturalidade, sl_suspeito_naturalizado_uf, sl_suspeito_naturalizado_municipio, deficiencia_do_suspeito, doenca_rara_do_suspeito, deficiencia_relacionada_a_doenca_rara_suspeito, suspeito_preso, pais_do_suspeito, uf_do_suspeito, sl_suspeito_municipio, profissao_do_suspeito, grau_de_instrucao_do_suspeito, religiao_do_suspeito, raca_cor_do_suspeito, suspeito_etnia, faixa_de_renda_do_suspeito, vinculo_orgao_pj_do_suspeito, sl_suspeito_ramo, suspeito_especificacao_etnia, vitima_especificacao_etnia, violacao",Number of non-missing original source fields,integer,low
+pct_campos_fonte_preenchidos,quality,"hash, data_de_cadastro, canal_de_atendimento, denuncia_emergencial, denunciante, cenario_da_violacao, pais, uf, municipio, frequencia, inicio_das_violacoes, sl_quantidade_vitimas, grupo_vulneravel, motivacao, relacao_vitima_suspeito, sl_vitima_cadastro, genero_da_vitima, orientacao_sexual_da_vitima, faixa_etaria_da_vitima, nacionalidade_da_vitima, sl_vitima_naturalizado_uf, sl_vitima_naturalizado_municipio, deficiencia_da_vitima, doenca_rara_da_vitima, deficiencia_relacionada_a_doenca_rara, vitima_preso_a, pais_da_vitima, uf_da_vitima, municipio_da_vitima, profissao_da_vitima, grau_de_instrucao_da_vitima, religiao_da_vitima, raca_cor_da_vitima, etnia_da_vitima, faixa_de_renda_da_vitima, natureza_juridica_do_suspeito, genero_do_suspeito, orientacao_sexual_do_suspeito, faixa_etaria_do_suspeito, suspeito_nacionalidade, sl_suspeito_naturalidade, sl_suspeito_naturalizado_uf, sl_suspeito_naturalizado_municipio, deficiencia_do_suspeito, doenca_rara_do_suspeito, deficiencia_relacionada_a_doenca_rara_suspeito, suspeito_preso, pais_do_suspeito, uf_do_suspeito, sl_suspeito_municipio, profissao_do_suspeito, grau_de_instrucao_do_suspeito, religiao_do_suspeito, raca_cor_do_suspeito, suspeito_etnia, faixa_de_renda_do_suspeito, vinculo_orgao_pj_do_suspeito, sl_suspeito_ramo, suspeito_especificacao_etnia, vitima_especificacao_etnia, violacao",Percentage of non-missing original source fields,numeric,low
+registro_baixa_completude,quality,pct_campos_fonte_preenchidos,Source-field completeness below 50%,boolean,low
+linhas_por_hash,quality,hash,Number of rows associated with hash,integer,low
+hash_repetido,quality,hash,Hash occurs in more than one row,boolean,low
