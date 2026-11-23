@@ -1,10 +1,20 @@
 ﻿column,finding_type,finding,implication
-deficiencia_do_suspeito,high_missingness,77.13% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
-deficiencia_da_vitima,high_missingness,76.72% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
-motivacao,high_missingness,65.05% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
-raca_cor_do_suspeito,high_missingness,55.61% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
-suspeito_preso,high_missingness,51.95% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
-faixa_etaria_do_suspeito,high_missingness,45.64% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
-raca_cor_da_vitima,high_missingness,40.71% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
-municipio,high_cardinality,313 valid categories,"Use top-N charts and review grouping, hierarchy, spelling, and disclosure risk."
-denuncia_emergencial,dominant_category,Top category represents 91.01% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+deficiencia_do_suspeito,very_high_missingness,86.67% missing,Restrict interpretation to the observed subset and assess conditional applicability.
+deficiencia_do_suspeito,dominant_category,Top category represents 99.46% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+deficiencia_da_vitima,very_high_missingness,86.44% missing,Restrict interpretation to the observed subset and assess conditional applicability.
+deficiencia_da_vitima,dominant_category,Top category represents 95.52% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+motivacao,high_missingness,67.68% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
+raca_cor_do_suspeito,high_missingness,60.71% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
+suspeito_preso,high_missingness,59.86% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
+suspeito_preso,dominant_category,Top category represents 92.56% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+faixa_etaria_do_suspeito,high_missingness,49.60% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
+raca_cor_da_vitima,high_missingness,47.84% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
+vitima_preso_a,high_missingness,44.59% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
+vitima_preso_a,dominant_category,Top category represents 100.00% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+orientacao_sexual_da_vitima,high_missingness,44.13% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
+orientacao_sexual_da_vitima,dominant_category,Top category represents 91.88% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+orientacao_sexual_do_suspeito,dominant_category,Top category represents 97.59% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+doenca_rara_do_suspeito,dominant_category,Top category represents 100.00% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+municipio,high_cardinality,310 valid categories,"Use top-N charts and review grouping, hierarchy, spelling, and disclosure risk."
+doenca_rara_da_vitima,dominant_category,Top category represents 100.00% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+denuncia_emergencial,dominant_category,Top category represents 91.02% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."

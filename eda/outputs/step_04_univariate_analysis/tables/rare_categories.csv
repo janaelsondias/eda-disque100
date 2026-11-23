@@ -3,7 +3,6 @@ canal_de_atendimento,PORTAL,29,0.35
 canal_de_atendimento,TELEGRAM,14,0.17
 canal_de_atendimento,CARTA,1,0.01
 denuncia_emergencial,VÍTIMA EM SANGRAMENTO,5,0.06
-denuncia_emergencial,N/D,1,0.01
 denunciante,PESSOA EM SOFRIMENTO PSÍQUICO,6,0.07
 denunciante,PESSOA COM DEFICIÊNCIA MENTAL,4,0.05
 denunciante,O PRÓPRIO AGRESSOR,2,0.02
@@ -20,8 +19,6 @@ cenario_da_violacao,UNIDADE PRISIONAL,6,0.07
 cenario_da_violacao,CLUBE ESPORTIVO,5,0.06
 cenario_da_violacao,TAXI/TRANSPORTE APLICATIVO,3,0.04
 cenario_da_violacao,TRANSPORTE AÉREO,2,0.02
-frequencia,N/D,17,0.2
-inicio_das_violacoes,N/D,23,0.27
 grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,0.19
 motivacao,PARA FINS DE ADOÇÃO,40,0.48
 motivacao,AGRAVANTE.COM HUMILHAÇÃO,36,0.43
@@ -92,7 +89,6 @@ motivacao,MOTIVAÇÃO.EM RAZÃO DE RAÇA/COR,1,0.01
 motivacao,MOTIVAÇÃO.EM RAZÃO DA RELAÇÃO DE ENSINO,1,0.01
 motivacao,EM RAZÃO DE RAÇA/COR,1,0.01
 motivacao,ELEMENTO CIRCUNSTANCIAL.NA FORMA DE AUXÍLIO/INSTIGAÇÃO/INDUZIMENTO/INCITAÇÃO,1,0.01
-relacao_vitima_suspeito,N/D,29,0.35
 relacao_vitima_suspeito,OUTROS PROFISSIONAIS DA EDUCAÇÃO,27,0.32
 relacao_vitima_suspeito,PRESTADOR DE SERVIÇO,26,0.31
 relacao_vitima_suspeito,EX-NAMORADO(A),20,0.24
@@ -106,18 +102,15 @@ relacao_vitima_suspeito,EMPREGADOR/PATRÃO(HIERARQUICAMENTE SUPERIOR),11,0.13
 relacao_vitima_suspeito,PRESTADOR(A) DE SERVIÇO,11,0.13
 relacao_vitima_suspeito,CUIDADOR(A),10,0.12
 relacao_vitima_suspeito,PROFESSOR(A),9,0.11
-relacao_vitima_suspeito,CUNHADO (A),8,0.1
 relacao_vitima_suspeito,MORA NA MESMA RESIDÊNCIA MAS NÃO É FAMILIAR,7,0.08
 relacao_vitima_suspeito,EX-MARIDO,6,0.07
 relacao_vitima_suspeito,MESMO NÍVEL HIERÁRQUICO,6,0.07
 relacao_vitima_suspeito,NAMORADO(A),6,0.07
-relacao_vitima_suspeito,AMIGO (A),5,0.06
 relacao_vitima_suspeito,DIRETOR(A) DE ESCOLA,5,0.06
 relacao_vitima_suspeito,AMIGO(A) DA FAMÍLIA,4,0.05
 relacao_vitima_suspeito,EMPREGADO (HIERARQUICAMENTE INFERIOR),4,0.05
 relacao_vitima_suspeito,NETO(A),3,0.04
 relacao_vitima_suspeito,PADRINHO/MADRINHA,2,0.02
-relacao_vitima_suspeito,VIZINHO (A),1,0.01
 violacao,DIREITOS CIVIS E POLÍTICOS>RETENÇÃO DE DOCUMENTOS,41,0.49
 violacao,INTEGRIDADE>PSÍQUICA>ASSÉDIO MORAL,41,0.49
 violacao,LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA À DE ESCRAVO>RESTRINGIR A LOCOMOÇÃO DE TRABALHADOR EM RAZÃO DE DÍVIDA,36,0.43
@@ -198,7 +191,6 @@ pais,CL | CHILE,2,0.02
 pais,FRANÇA,1,0.01
 uf,PB,41,0.49
 uf,MT,39,0.46
-uf,ATENDIMENTO INTERROMPIDO,18,0.21
 uf,AP,14,0.17
 uf,TO,14,0.17
 uf,AL,10,0.12
@@ -241,7 +233,6 @@ municipio,3205002 | SERRA,20,0.24
 municipio,3127701 | GOVERNADOR VALADARES,20,0.24
 municipio,330455 | RIO DE JANEIRO,19,0.23
 municipio,230440 | FORTALEZA,18,0.21
-municipio,ATENDIMENTO INTERROMPIDO,18,0.21
 municipio,3103504 | ARAGUARI,18,0.21
 municipio,3201308 | CARIACICA,18,0.21
 municipio,354850 | SANTOS,18,0.21

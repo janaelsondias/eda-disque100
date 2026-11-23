@@ -1,6 +1,6 @@
 {
   "data_source": "outputs\\step_03_data_cleaning\\disque100_clean.parquet",
-  "counting_mode": "record",
+  "counting_mode": "report",
   "analytical_unit_label": "records",
   "source_rows": 8401,
   "analysis_rows": 8401,

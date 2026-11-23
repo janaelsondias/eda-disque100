@@ -1,5 +1,3 @@
 ﻿category,count,percent_total,percent_valid,cumulative_percent_total
-NÃO,5796,68.99,85.96,68.99
-<MISSING>,1658,19.74,,88.73
-NÃO TEM DOENÇA RARA,741,8.82,10.99,97.55
-N/D,206,2.45,3.06,100.0
+NÃO,6537,77.81,100.0,77.81
+<MISSING>,1864,22.19,,100.0

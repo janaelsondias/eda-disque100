@@ -1,31 +1,31 @@
 ﻿column,dtype,total_n,valid_n,missing_n,missing_pct,unique_valid,mode,mode_n,mode_pct_valid
-deficiencia_do_suspeito,string,8401,1921,6480,77.13,6,NÃO,971,50.55
-deficiencia_da_vitima,string,8401,1956,6445,76.72,8,NÃO,966,49.39
-motivacao,string,8401,2936,5465,65.05,87,OUTRO(S) ELEMENTO(S),773,26.33
-raca_cor_do_suspeito,string,8401,3729,4672,55.61,5,BRANCA,1715,45.99
-suspeito_preso,string,8401,4037,4364,51.95,8,NÃO,3121,77.31
-faixa_etaria_do_suspeito,string,8401,4567,3834,45.64,18,30 A 34 ANOS,716,15.68
-raca_cor_da_vitima,string,8401,4981,3420,40.71,6,BRANCA,2014,40.43
-vitima_preso_a,string,8401,5395,3006,35.78,2,NÃO,4655,86.28
-orientacao_sexual_da_vitima,string,8401,5639,2762,32.88,9,NÃO,4313,76.49
-genero_do_suspeito,string,8401,6520,1881,22.39,5,MASCULINO,3127,47.96
-orientacao_sexual_do_suspeito,string,8401,6648,1753,20.87,10,NÃO,5585,84.01
-doenca_rara_do_suspeito,string,8401,6743,1658,19.74,3,NÃO,5796,85.96
-genero_da_vitima,string,8401,6947,1454,17.31,5,FEMININO,4100,59.02
-doenca_rara_da_vitima,string,8401,7170,1231,14.65,3,NÃO,6223,86.79
-inicio_das_violacoes,string,8401,7355,1046,12.45,8,HÁ MAIS DE UM ANO,2193,29.82
-municipio,string,8401,7810,591,7.03,313,DENUNCIANTE NÃO SOUBE INFORMAR,781,10.0
-uf,string,8401,7828,573,6.82,30,SP,1797,22.96
+deficiencia_do_suspeito,string,8401,1120,7281,86.67,4,NÃO,1114,99.46
+deficiencia_da_vitima,string,8401,1139,7262,86.44,6,NÃO,1088,95.52
+motivacao,string,8401,2715,5686,67.68,86,OUTRO(S) ELEMENTO(S),773,28.47
+raca_cor_do_suspeito,string,8401,3301,5100,60.71,4,BRANCA,1715,51.95
+suspeito_preso,string,8401,3372,5029,59.86,7,NÃO,3121,92.56
+faixa_etaria_do_suspeito,string,8401,4234,4167,49.6,17,30 A 34 ANOS,716,16.91
+raca_cor_da_vitima,string,8401,4382,4019,47.84,5,BRANCA,2014,45.96
+vitima_preso_a,string,8401,4655,3746,44.59,1,NÃO,4655,100.0
+orientacao_sexual_da_vitima,string,8401,4694,3707,44.13,8,NÃO,4313,91.88
+orientacao_sexual_do_suspeito,string,8401,5723,2678,31.88,9,NÃO,5585,97.59
+genero_do_suspeito,string,8401,6268,2133,25.39,4,MASCULINO,3127,49.89
+doenca_rara_do_suspeito,string,8401,6537,1864,22.19,1,NÃO,6537,100.0
+genero_da_vitima,string,8401,6593,1808,21.52,4,FEMININO,4100,62.19
+frequencia,string,8401,6831,1570,18.69,5,DIARIAMENTE,5173,75.73
+inicio_das_violacoes,string,8401,6873,1528,18.19,7,HÁ MAIS DE UM ANO,2193,31.91
+municipio,string,8401,6875,1526,18.16,310,3170206 | UBERLÂNDIA,306,4.45
+uf,string,8401,6901,1500,17.86,27,SP,1797,26.04
+doenca_rara_da_vitima,string,8401,6918,1483,17.65,1,NÃO,6918,100.0
 faixa_etaria_da_vitima,string,8401,7926,475,5.65,39,CRIANÇA/ADOLESCENTE IDADE NÃO INFORMADA,1191,15.03
-relacao_vitima_suspeito,string,8401,8084,317,3.77,42,OUTROS,3726,46.09
+relacao_vitima_suspeito,string,8401,7987,414,4.93,38,OUTROS,3726,46.65
+cenario_da_violacao,string,8401,8159,242,2.88,27,CASA ONDE RESIDE A VÍTIMA E O SUSPEITO,1776,21.77
+suspeito_nacionalidade,string,8401,8206,195,2.32,19,BR | BRASIL,7238,88.2
 violacao,string,8401,8211,190,2.26,100,INTEGRIDADE>PSÍQUICA>TORTURA PSÍQUICA,535,6.52
-suspeito_nacionalidade,string,8401,8392,9,0.11,20,BR | BRASIL,7238,86.25
+nacionalidade_da_vitima,string,8401,8304,97,1.15,9,BR | BRASIL,7383,88.91
+denuncia_emergencial,string,8401,8400,1,0.01,4,NÃO,7646,91.02
 pais,string,8401,8401,0,0.0,29,BR | BRASIL,6498,77.35
-cenario_da_violacao,string,8401,8401,0,0.0,28,CASA ONDE RESIDE A VÍTIMA E O SUSPEITO,1776,21.14
-nacionalidade_da_vitima,string,8401,8401,0,0.0,10,BR | BRASIL,7383,87.88
 grupo_vulneravel,string,8401,8401,0,0.0,9,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,61.92
 canal_de_atendimento,string,8401,8401,0,0.0,8,TELEFÔNICO,6091,72.5
-frequencia,string,8401,8401,0,0.0,7,DIARIAMENTE,5173,61.58
 denunciante,string,8401,8401,0,0.0,6,TERCEIRO,6642,79.06
 natureza_juridica_do_suspeito,string,8401,8401,0,0.0,6,PESSOA FÍSICA,6522,77.63
-denuncia_emergencial,string,8401,8401,0,0.0,5,NÃO,7646,91.01
