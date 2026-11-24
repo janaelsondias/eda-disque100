@@ -1,3 +1,4 @@
 ﻿category,count,percent_total,percent_valid,cumulative_percent_total
-NÃO,4655,55.41,100.0,55.41
-<MISSING>,3746,44.59,,100.0
+NÃO,4655,55.41,89.55,55.41
+<MISSING>,3203,38.13,,93.53999999999999
+NÃO INFORMADO,543,6.46,10.45,100.0

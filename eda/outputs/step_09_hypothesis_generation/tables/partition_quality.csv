@@ -1,12 +1,12 @@
 ﻿variable,partition,n,missing_n,missing_pct,unique_valid
 denuncia_emergencial,confirmation,2521,0,0.0,2
-denuncia_emergencial,discovery,5880,0,0.0,5
-faixa_etaria_da_vitima,confirmation,2521,4,0.16,27
-faixa_etaria_da_vitima,discovery,5880,471,8.01,39
+denuncia_emergencial,discovery,5880,1,0.02,4
+faixa_etaria_da_vitima,confirmation,2521,0,0.0,28
+faixa_etaria_da_vitima,discovery,5880,405,6.89,40
 grupo_vulneravel,confirmation,2521,0,0.0,6
 grupo_vulneravel,discovery,5880,0,0.0,9
-relacao_vitima_suspeito,confirmation,2521,32,1.27,16
-relacao_vitima_suspeito,discovery,5880,285,4.85,40
+relacao_vitima_suspeito,confirmation,2521,0,0.0,17
+relacao_vitima_suspeito,discovery,5880,29,0.49,38
 sl_quantidade_vitimas,confirmation,2521,0,0.0,2
 sl_quantidade_vitimas,discovery,5880,0,0.0,10
 violacao,confirmation,2521,0,0.0,82

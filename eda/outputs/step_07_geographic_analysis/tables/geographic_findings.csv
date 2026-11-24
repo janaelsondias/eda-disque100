@@ -1,12 +1,15 @@
 ﻿finding_type,scope,finding,interpretation
-geographic_rule_violation,complaint,UF must be one of 27 official codes: 927 records,Resolve with official metadata or quarantine before detailed mapping.
+geographic_rule_violation,complaint,Brazil requires UF review: 99 records,Resolve with official metadata or quarantine before detailed mapping.
+geographic_rule_violation,complaint,UF must be one of 27 official codes: 773 records,Resolve with official metadata or quarantine before detailed mapping.
 geographic_rule_violation,complaint,Non-Brazil country with Brazilian UF: 6096 records,Resolve with official metadata or quarantine before detailed mapping.
-geographic_rule_violation,victim,UF must be one of 27 official codes: 1416 records,Resolve with official metadata or quarantine before detailed mapping.
+geographic_rule_violation,victim,Brazil requires UF review: 10 records,Resolve with official metadata or quarantine before detailed mapping.
+geographic_rule_violation,victim,UF must be one of 27 official codes: 1228 records,Resolve with official metadata or quarantine before detailed mapping.
 geographic_rule_violation,victim,Non-Brazil country with Brazilian UF: 5598 records,Resolve with official metadata or quarantine before detailed mapping.
-geographic_rule_violation,victim,Valid UF with missing municipality: 53 records,Resolve with official metadata or quarantine before detailed mapping.
-geographic_rule_violation,suspect,UF must be one of 27 official codes: 1202 records,Resolve with official metadata or quarantine before detailed mapping.
+geographic_rule_violation,victim,Valid UF with missing municipality: 71 records,Resolve with official metadata or quarantine before detailed mapping.
+geographic_rule_violation,suspect,Brazil requires UF review: 75 records,Resolve with official metadata or quarantine before detailed mapping.
+geographic_rule_violation,suspect,UF must be one of 27 official codes: 1000 records,Resolve with official metadata or quarantine before detailed mapping.
 geographic_rule_violation,suspect,Non-Brazil country with Brazilian UF: 5935 records,Resolve with official metadata or quarantine before detailed mapping.
-geographic_rule_violation,suspect,Valid UF with missing municipality: 46 records,Resolve with official metadata or quarantine before detailed mapping.
+geographic_rule_violation,suspect,Valid UF with missing municipality: 73 records,Resolve with official metadata or quarantine before detailed mapping.
 small_cell_suppression,municipality,279 municipality-role cells below 5,Suppress in public outputs and consider complementary suppression.
 missing_denominator,rates,No compatible population denominator loaded,Do not interpret raw counts as geographic risk.
 geographic_concentration,complaint,Top five UFs contain 61.18% of valid records,Compare with population distribution and reporting access before interpreting concentration.

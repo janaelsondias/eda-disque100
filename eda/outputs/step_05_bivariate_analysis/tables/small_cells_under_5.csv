@@ -28,12 +28,15 @@ violacao × faixa_etaria_da_vitima,LIBERDADE>SEXUAL>FÍSICA>EXPLORAÇÃO SEXUAL,
 violacao × faixa_etaria_da_vitima,LIBERDADE>SEXUAL>FÍSICA>EXPLORAÇÃO SEXUAL,30 A 34 ANOS,3
 violacao × genero_da_vitima,INTEGRIDADE>FÍSICA>EXPOSIÇÃO DE RISCO À SAÚDE,INTERSEXO,1
 violacao × genero_da_vitima,INTEGRIDADE>FÍSICA>MAUS TRATOS,INTERSEXO,1
-violacao × genero_da_vitima,INTEGRIDADE>FÍSICA>OUTROS,N/D,2
 violacao × genero_da_vitima,INTEGRIDADE>NEGLIGÊNCIA,INTERSEXO,1
 violacao × genero_da_vitima,INTEGRIDADE>PSÍQUICA>CONSTRANGIMENTO,INTERSEXO,1
 violacao × genero_da_vitima,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - NACIONAL,INTERSEXO,2
 violacao × genero_da_vitima,LIBERDADE>SEXUAL>FÍSICA>ESTUPRO,INTERSEXO,1
+violacao × genero_da_vitima,LIBERDADE>SEXUAL>FÍSICA>ESTUPRO,NÃO INFORMADO,1
 violacao × genero_da_vitima,LIBERDADE>SEXUAL>FÍSICA>EXPLORAÇÃO SEXUAL,INTERSEXO,1
+violacao × genero_da_vitima,LIBERDADE>SEXUAL>FÍSICA>EXPLORAÇÃO SEXUAL,NÃO INFORMADO,3
+violacao × raca_cor_da_vitima,INTEGRIDADE>FÍSICA>OUTROS,AMARELA,2
+violacao × raca_cor_da_vitima,INTEGRIDADE>FÍSICA>OUTROS,INDÍGENA,4
 violacao × raca_cor_da_vitima,INTEGRIDADE>PSÍQUICA>AMEAÇA OU COAÇÃO,INDÍGENA,4
 violacao × raca_cor_da_vitima,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE CRIANÇAS - NACIONAL,INDÍGENA,1
 violacao × raca_cor_da_vitima,LIBERDADE>SEXUAL>FÍSICA>EXPLORAÇÃO SEXUAL,PRETA,3
@@ -73,14 +76,12 @@ violacao × grupo_vulneravel,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS 
 violacao × grupo_vulneravel,LIBERDADE>SEXUAL>FÍSICA>EXPLORAÇÃO SEXUAL,VIOLAÇÃO DE DIREITOS HUMANOS,2
 violacao × grupo_vulneravel,LIBERDADE>SEXUAL>FÍSICA>EXPLORAÇÃO SEXUAL,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,1
 violacao × relacao_vitima_suspeito,INTEGRIDADE>FÍSICA>EXPOSIÇÃO DE RISCO À SAÚDE,AVÔ(Ó),4
-violacao × relacao_vitima_suspeito,INTEGRIDADE>FÍSICA>EXPOSIÇÃO DE RISCO À SAÚDE,PRIMO(A),1
 violacao × relacao_vitima_suspeito,INTEGRIDADE>FÍSICA>MAUS TRATOS,AMIGO(A),2
 violacao × relacao_vitima_suspeito,INTEGRIDADE>FÍSICA>MAUS TRATOS,LÍDER RELIGIOSO(A),1
-violacao × relacao_vitima_suspeito,INTEGRIDADE>FÍSICA>MAUS TRATOS,PRIMO(A),3
 violacao × relacao_vitima_suspeito,INTEGRIDADE>FÍSICA>MAUS TRATOS,VIZINHO(A),3
 violacao × relacao_vitima_suspeito,INTEGRIDADE>FÍSICA>OUTROS,AMIGO(A),2
+violacao × relacao_vitima_suspeito,INTEGRIDADE>FÍSICA>OUTROS,NÃO SE APLICA,4
 violacao × relacao_vitima_suspeito,INTEGRIDADE>FÍSICA>OUTROS,VIZINHO(A),3
-violacao × relacao_vitima_suspeito,INTEGRIDADE>NEGLIGÊNCIA,PRIMO(A),3
 violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>AMEAÇA OU COAÇÃO,AVÔ(Ó),2
 violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>AMEAÇA OU COAÇÃO,LÍDER RELIGIOSO(A),1
 violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>AMEAÇA OU COAÇÃO,NÃO SABE INFORMAR,3
@@ -88,14 +89,10 @@ violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>AMEAÇA OU COAÇÃO,OU
 violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>AMEAÇA OU COAÇÃO,PAI,1
 violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>CONSTRANGIMENTO,AMIGO(A),2
 violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>CONSTRANGIMENTO,PAI,4
-violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>CONSTRANGIMENTO,PRIMO(A),1
 violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>EXPOSIÇÃO,AMIGO(A),4
 violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>EXPOSIÇÃO,OUTROS FAMILIARES,3
-violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>EXPOSIÇÃO,PRIMO(A),3
-violacao × relacao_vitima_suspeito,INTEGRIDADE>PSÍQUICA>TORTURA PSÍQUICA,PRIMO(A),3
 violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>SEQUESTRO,EMPREGADOR/PATRÃO (HIERARQUICAMENTE SUPERIOR),2
 violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>SEQUESTRO,IRMÃO(Ã),4
-violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>SEQUESTRO,PRIMO(A),3
 violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>SEQUESTRO,VIZINHO(A),1
 violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE CRIANÇAS - INTERNACIONAL,AMIGO(A),2
 violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE CRIANÇAS - INTERNACIONAL,AVÔ(Ó),3
@@ -107,9 +104,9 @@ violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE C
 violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE CRIANÇAS - NACIONAL,OUTROS FAMILIARES,4
 violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - INTERNACIONAL,PAI,4
 violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - INTERNACIONAL,VIZINHO(A),3
+violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - NACIONAL,CUNHADO(A),1
 violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - NACIONAL,IRMÃO(Ã),2
-violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - NACIONAL,PRIMO(A),4
-violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - NACIONAL,VIZINHO(A),1
+violacao × relacao_vitima_suspeito,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - NACIONAL,VIZINHO(A),2
 violacao × relacao_vitima_suspeito,LIBERDADE>SEXUAL>FÍSICA>EXPLORAÇÃO SEXUAL,PAI,4
 violacao × denuncia_emergencial,INTEGRIDADE>FÍSICA>MAUS TRATOS,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,4
 violacao × denuncia_emergencial,INTEGRIDADE>FÍSICA>OUTROS,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,2
@@ -120,7 +117,6 @@ violacao × denuncia_emergencial,INTEGRIDADE>PSÍQUICA>EXPOSIÇÃO,SITUAÇÃO FL
 violacao × denuncia_emergencial,INTEGRIDADE>PSÍQUICA>TORTURA PSÍQUICA,VÍTIMA EM SANGRAMENTO,1
 violacao × denuncia_emergencial,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE CRIANÇAS - INTERNACIONAL,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,1
 violacao × denuncia_emergencial,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE CRIANÇAS - NACIONAL,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,1
-violacao × denuncia_emergencial,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - INTERNACIONAL,N/D,1
 violacao × denuncia_emergencial,LIBERDADE>DIREITOS INDIVIDUAIS>TRÁFICO DE PESSOAS - NACIONAL,VÍTIMA EM SANGRAMENTO,1
 violacao × denuncia_emergencial,LIBERDADE>SEXUAL>FÍSICA>EXPLORAÇÃO SEXUAL,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,4
 violacao × denuncia_emergencial,OTHER,VÍTIMA EM SANGRAMENTO,3
@@ -165,28 +161,27 @@ relacao_vitima_suspeito × faixa_etaria_da_vitima,AMIGO(A),30 A 34 ANOS,2
 relacao_vitima_suspeito × faixa_etaria_da_vitima,DESCONHECIDO(A),45 A 49 ANOS,2
 relacao_vitima_suspeito × faixa_etaria_da_vitima,NÃO SABE INFORMAR,18 A 19 ANOS,2
 relacao_vitima_suspeito × faixa_etaria_da_vitima,NÃO SABE INFORMAR,45 A 49 ANOS,3
+relacao_vitima_suspeito × faixa_etaria_da_vitima,NÃO SE APLICA,20 A 24 ANOS,4
 relacao_vitima_suspeito × faixa_etaria_da_vitima,OTHER,14 ANOS,2
 relacao_vitima_suspeito × faixa_etaria_da_vitima,OTHER,16 ANOS,1
 relacao_vitima_suspeito × faixa_etaria_da_vitima,PAI,MENOS DE 01 ANO,1
-faixa_etaria_da_vitima × faixa_etaria_do_suspeito,10 ANOS,20 A 24 ANOS,3
-faixa_etaria_da_vitima × faixa_etaria_do_suspeito,12 A 14 ANOS,70 A 74 ANOS,1
+relacao_vitima_suspeito × faixa_etaria_da_vitima,VIZINHO(A),35 A 39 ANOS,1
+genero_da_vitima × genero_do_suspeito,NÃO SE APLICA,NÃO INFORMADO,1
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,12 ANOS,20 A 24 ANOS,4
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,14 ANOS,20 A 24 ANOS,2
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,14 ANOS,45 A 49 ANOS,3
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,15 ANOS,45 A 49 ANOS,4
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,15 ANOS,65 A 69 ANOS,4
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,16 ANOS,20 A 24 ANOS,2
+faixa_etaria_da_vitima × faixa_etaria_do_suspeito,18 A 19 ANOS,55 A 59 ANOS,4
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,20 A 24 ANOS,35 A 39 ANOS,1
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,20 A 24 ANOS,OTHER,4
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,30 A 34 ANOS,50 A 54 ANOS,3
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,45 A 49 ANOS,35 A 39 ANOS,1
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,CRIANÇA/ADOLESCENTE IDADE NÃO INFORMADA,75 A 79 ANOS,4
 faixa_etaria_da_vitima × faixa_etaria_do_suspeito,MENOS DE 01 ANO,60 A 64 ANOS,4
-denuncia_emergencial × cenario_da_violacao,N/D,VIA PÚBLICA,1
 denuncia_emergencial × cenario_da_violacao,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,CASA DA VÍTIMA,1
 denuncia_emergencial × cenario_da_violacao,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,NÃO SABE INFORMAR,2
 denuncia_emergencial × cenario_da_violacao,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,ÓRGÃOS PÚBLICOS,3
-denuncia_emergencial × frequencia,N/D,DIARIAMENTE,1
 denuncia_emergencial × frequencia,RISCO IMINENTE DE MORTE DA VÍTIMA,SEMANALMENTE,3
-canal_de_atendimento × denuncia_emergencial,CARTA,N/D,1
 canal_de_atendimento × denuncia_emergencial,WEBCHAT,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,4

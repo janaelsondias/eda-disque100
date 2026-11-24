@@ -15,8 +15,6 @@
     "faixa_etaria_da_vitima",
     "raca_cor_da_vitima",
     "orientacao_sexual_da_vitima",
-    "deficiencia_da_vitima",
-    "doenca_rara_da_vitima",
     "genero_do_suspeito",
     "faixa_etaria_do_suspeito",
     "raca_cor_do_suspeito",
@@ -29,7 +27,7 @@
   "maximum_levels_per_variable": 15,
   "mca_components": 10,
   "cluster_dimensions_used": 5,
-  "selected_clusters": 2,
+  "selected_clusters": 6,
   "random_state": 42,
   "suppression_threshold": 5
 }

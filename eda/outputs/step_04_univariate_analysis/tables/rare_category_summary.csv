@@ -11,12 +11,12 @@ nacionalidade_da_vitima,7,142
 faixa_etaria_do_suspeito,6,101
 uf,6,121
 faixa_etaria_da_vitima,6,135
-deficiencia_da_vitima,5,51
+deficiencia_da_vitima,6,83
 orientacao_sexual_da_vitima,5,106
 suspeito_preso,5,89
-deficiencia_do_suspeito,3,6
-denunciante,3,12
+deficiencia_do_suspeito,4,32
 canal_de_atendimento,3,44
+denunciante,3,12
 denuncia_emergencial,1,5
 natureza_juridica_do_suspeito,1,12
 genero_da_vitima,1,33

@@ -1,10 +1,10 @@
 ﻿role,level,column,total,valid,missing,missing_pct,unique_valid
 complaint,country,pais,8401,8401,0,0.0,29
-complaint,state,uf,8401,7828,573,6.82,30
-complaint,municipality,municipio,8401,7810,591,7.03,313
+complaint,state,uf,8401,7674,727,8.65,28
+complaint,municipality,municipio,8401,7656,745,8.87,311
 victim,country,pais_da_vitima,8401,8401,0,0.0,22
-victim,state,uf_da_vitima,8401,7813,588,7.0,30
-victim,municipality,municipio_da_vitima,8401,7760,641,7.63,301
+victim,state,uf_da_vitima,8401,7625,776,9.24,28
+victim,municipality,municipio_da_vitima,8401,7506,895,10.65,298
 suspect,country,pais_do_suspeito,8401,8401,0,0.0,30
-suspect,state,uf_do_suspeito,8401,7942,459,5.46,30
-suspect,municipality,sl_suspeito_municipio,8401,7896,505,6.01,327
+suspect,state,uf_do_suspeito,8401,7740,661,7.87,28
+suspect,municipality,sl_suspeito_municipio,8401,7667,734,8.74,324

@@ -1,319 +1,289 @@
 ﻿timestamp_utc,rule,column,original_value,corrected_value,affected_cells,notes
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,f585bc8f7823850fb2b4ce43841d13d4,F585BC8F7823850FB2B4CE43841D13D4,28,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,f6b01103437d104e6381bc8237a347be,F6B01103437D104E6381BC8237A347BE,22,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,fe98c48ce3636be263dab63e8b46ea49,FE98C48CE3636BE263DAB63E8B46EA49,18,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,4dfb07b4d93940fa77fdf43b634de7c3,4DFB07B4D93940FA77FDF43B634DE7C3,17,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,ffefe137ad8ef0f0fcbb895d0ce818fd,FFEFE137AD8EF0F0FCBB895D0CE818FD,16,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,719adcc9524163f260d46e4ffe0bf22a,719ADCC9524163F260D46E4FFE0BF22A,15,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,79c48e0d422d3ab1a306f8d7e498b8be,79C48E0D422D3AB1A306F8D7E498B8BE,14,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,f084027b26161cb94001611d23125ae7,F084027B26161CB94001611D23125AE7,14,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,7d5e2e2e6237a25b75298ddec32f0e2e,7D5E2E2E6237A25B75298DDEC32F0E2E,14,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,3448319dd9ad65f23a95a63600ca89c3,3448319DD9AD65F23A95A63600CA89C3,14,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a1d8473a2347739892a11c7671df8e28,A1D8473A2347739892A11C7671DF8E28,12,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,dcb94dcf091aee655ea0f72272e3bf2c,DCB94DCF091AEE655EA0F72272E3BF2C,12,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,54f5e47714ef9d90097955bc4cf22e5c,54F5E47714EF9D90097955BC4CF22E5C,11,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,fa62d006d0964b75ea2b66280336f87d,FA62D006D0964B75EA2B66280336F87D,11,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,e66c22ae66ebf300a2f5c529001f0946,E66C22AE66EBF300A2F5C529001F0946,11,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,0b9e67b28384351a4006c49ba3ff66b7,0B9E67B28384351A4006C49BA3FF66B7,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,2ef050880ba4bc66c8692c9659aa6670,2EF050880BA4BC66C8692C9659AA6670,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,190a2429c4e2002e3acd6ef7c6c9ed3b,190A2429C4E2002E3ACD6EF7C6C9ED3B,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,ee4929e91b7f5f4906ac8b3667f59a19,EE4929E91B7F5F4906AC8B3667F59A19,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,54340a1750edb8931c0b5d5fdd03a80c,54340A1750EDB8931C0B5D5FDD03A80C,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,4bb52bee9614167cc4f7d7e89e699245,4BB52BEE9614167CC4F7D7E89E699245,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,c8bab6f67c8966b367f7a0002b5eae0f,C8BAB6F67C8966B367F7A0002B5EAE0F,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,40279fdab0005efa6f3068cc4a7639e4,40279FDAB0005EFA6F3068CC4A7639E4,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,6362b17d072be85a138c40989e645ec1,6362B17D072BE85A138C40989E645EC1,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,fdf5944ce50ac510523e09cbd37e9270,FDF5944CE50AC510523E09CBD37E9270,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,853bdc9cd8bd1addb0b083e6e5378c6c,853BDC9CD8BD1ADDB0B083E6E5378C6C,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,253bca99807c4c78df30249520ef3c9c,253BCA99807C4C78DF30249520EF3C9C,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,0a9faaf07badc4c5aca94599fc6082b3,0A9FAAF07BADC4C5ACA94599FC6082B3,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,bc5703fffe7244a7427025ad7a9e2f5a,BC5703FFFE7244A7427025AD7A9E2F5A,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,e8af5cdc19d825e9743249df4929c125,E8AF5CDC19D825E9743249DF4929C125,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,d3b6fc3b69386842b4fe57ea84e4cf64,D3B6FC3B69386842B4FE57EA84E4CF64,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,9b80d4e9f533d0d8c811bbcae231d3ab,9B80D4E9F533D0D8C811BBCAE231D3AB,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,435d63b04dd10a1c7958caae4c0d4ec7,435D63B04DD10A1C7958CAAE4C0D4EC7,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,d1631a86d13998d12179505335867ff4,D1631A86D13998D12179505335867FF4,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,b954fe35bb2acb7d1162ac579a0d329e,B954FE35BB2ACB7D1162AC579A0D329E,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,5b4ed34860afe9207f25f3db6a2d25c5,5B4ED34860AFE9207F25F3DB6A2D25C5,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,3bccea611367f36e2e0c24e1d387db95,3BCCEA611367F36E2E0C24E1D387DB95,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a9dfad5910750164ed1ee8ad2083575c,A9DFAD5910750164ED1EE8AD2083575C,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,fa9ae4aadcd9900ff92ff7e4c125e628,FA9AE4AADCD9900FF92FF7E4C125E628,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,2850e468c852466c8825280f0d10d46e,2850E468C852466C8825280F0D10D46E,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a389d4a9fa05f1b86cf13dff9665af6e,A389D4A9FA05F1B86CF13DFF9665AF6E,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,8091dc720772f7e3082fa1d669b22d17,8091DC720772F7E3082FA1D669B22D17,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,abcc23cdf31c8da485728f5609522fdc,ABCC23CDF31C8DA485728F5609522FDC,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,0f7317beca19f30f87c5ecac43f59e56,0F7317BECA19F30F87C5ECAC43F59E56,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,eeb98db5ff6105a08f545594938fb596,EEB98DB5FF6105A08F545594938FB596,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,cf9ff21a1e69dbe974223f167ba6efcf,CF9FF21A1E69DBE974223F167BA6EFCF,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,105ee74c81268a30a1919efd41616168,105EE74C81268A30A1919EFD41616168,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a8001c5fdda5eff688099832ce7ea1a9,A8001C5FDDA5EFF688099832CE7EA1A9,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,9465c21b10ddcfaa52d1d0a02b7dad97,9465C21B10DDCFAA52D1D0A02B7DAD97,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,c3bc7ab84e33f5dde37dd1f979412a32,C3BC7AB84E33F5DDE37DD1F979412A32,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,b798f3b54a050742bf8a42261aa963d7,B798F3B54A050742BF8A42261AA963D7,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,9e0330f15dab6dc094007d2023ec8766,9E0330F15DAB6DC094007D2023EC8766,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,694932649ba7a390bcc9765ee3c5e2c5,694932649BA7A390BCC9765EE3C5E2C5,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,9d4c14916230978d0736c87259bfeb98,9D4C14916230978D0736C87259BFEB98,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,71ba6eace9ea9aad0e450bbac0cf73bb,71BA6EACE9EA9AAD0E450BBAC0CF73BB,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,f4cd3f9c2c09895bafee35766db43323,F4CD3F9C2C09895BAFEE35766DB43323,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,3eb4c90aa2217517ac9b421cc0fbe1fa,3EB4C90AA2217517AC9B421CC0FBE1FA,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,92d47fe182e07e69cd67a1e6f54b040c,92D47FE182E07E69CD67A1E6F54B040C,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,cbba4761f54de8a91b9aed3265a2d5c6,CBBA4761F54DE8A91B9AED3265A2D5C6,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a130ef916bdbb618e334806d5584accc,A130EF916BDBB618E334806D5584ACCC,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,fb29c3bbad1dbe2e2ee5164c8b7ff349,FB29C3BBAD1DBE2E2EE5164C8B7FF349,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,ce207e295932711ac23494214116a4de,CE207E295932711AC23494214116A4DE,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,990824b361f70265104d246076a92d5a,990824B361F70265104D246076A92D5A,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,ba12fedf0ff1a3bbe12b853e0ae2da65,BA12FEDF0FF1A3BBE12B853E0AE2DA65,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,9b529e04fc8e48dab3687086881455f8,9B529E04FC8E48DAB3687086881455F8,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,0b04538877a0065f36161eba8e1f7515,0B04538877A0065F36161EBA8E1F7515,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,82de8dbf96d19e98f48358d9cc9a9f89,82DE8DBF96D19E98F48358D9CC9A9F89,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,8a53c4532e5f8738119f1296c1b12a67,8A53C4532E5F8738119F1296C1B12A67,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,2dbb09ade34c2ed4cc4037ee640cb277,2DBB09ADE34C2ED4CC4037EE640CB277,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,ebabf95f23aa05ff7b83ea3a51d1793d,EBABF95F23AA05FF7B83EA3A51D1793D,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,8a4a910bb84be44896de1539c7f474f7,8A4A910BB84BE44896DE1539C7F474F7,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,1ae27c042a86635b27f7978fec9329ef,1AE27C042A86635B27F7978FEC9329EF,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,d5e8dec5645a2ef486d8acdb7b560ecf,D5E8DEC5645A2EF486D8ACDB7B560ECF,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,cdd45523f338b12e2955bd19c049aba4,CDD45523F338B12E2955BD19C049ABA4,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,c990f8102154a7bf549e566306d98cb2,C990F8102154A7BF549E566306D98CB2,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,bdfcee58a485b6ecc11a33479b723414,BDFCEE58A485B6ECC11A33479B723414,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a251a9daba2d19f7a0f13b4d97eee378,A251A9DABA2D19F7A0F13B4D97EEE378,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,700cd6d796a79fa66ac87c00d28172f4,700CD6D796A79FA66AC87C00D28172F4,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,2263a2d5dae25a09ed81881fafef2f5d,2263A2D5DAE25A09ED81881FAFEF2F5D,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,874f3526e92b86b2dd694c2f1f71b314,874F3526E92B86B2DD694C2F1F71B314,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,6d67d416cc63b121144c0f98499c91a3,6D67D416CC63B121144C0F98499C91A3,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,f122356a2e01c791fb723971ebde8cff,F122356A2E01C791FB723971EBDE8CFF,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a7cf2e711b722e6f352799887e6df822,A7CF2E711B722E6F352799887E6DF822,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,5375e309af991ef0e5972391b7cca435,5375E309AF991EF0E5972391B7CCA435,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,6c7376a19568647dd38532d58daeb3ce,6C7376A19568647DD38532D58DAEB3CE,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,6830138a2fa469649ab7b4960ef17c2c,6830138A2FA469649AB7B4960EF17C2C,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,bd551bb9e5fefcb09eb2c1568589b455,BD551BB9E5FEFCB09EB2C1568589B455,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,9f041624ece1858852a30fd8923f6719,9F041624ECE1858852A30FD8923F6719,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,5c99d39e74e26b8182f0945006d4473c,5C99D39E74E26B8182F0945006D4473C,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,da1bfd0c0c3679e94d0582c13a068c4e,DA1BFD0C0C3679E94D0582C13A068C4E,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,adf7317b64fdb9c355a0bbe9a255ae48,ADF7317B64FDB9C355A0BBE9A255AE48,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,6d7e744e17e072f2254b73962d6e2ad9,6D7E744E17E072F2254B73962D6E2AD9,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,22f8f7b9b32b67931965f6c0aa514ea0,22F8F7B9B32B67931965F6C0AA514EA0,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,cdb76937c3cabedc0a992797c27311ac,CDB76937C3CABEDC0A992797C27311AC,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,75a18d1e90decfd57350e12492721e97,75A18D1E90DECFD57350E12492721E97,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,3a4874f643e06772be4096ba3924feeb,3A4874F643E06772BE4096BA3924FEEB,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,1a99e7f1693837bd3e8117adf831530d,1A99E7F1693837BD3E8117ADF831530D,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,2436c143daea7ba207adb2b243338a46,2436C143DAEA7BA207ADB2B243338A46,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,c9b59bf52928f0039c2a5cdac82265ba,C9B59BF52928F0039C2A5CDAC82265BA,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,e378f7a4a71964d768ec5925ddc6edac,E378F7A4A71964D768EC5925DDC6EDAC,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,f18d3ab99dae2f4f1f7c2eee09484ed3,F18D3AB99DAE2F4F1F7C2EEE09484ED3,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,d2fac557aedfea1afea549897cb128fe,D2FAC557AEDFEA1AFEA549897CB128FE,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,531231cb871d0c0ab198e76f1de1f902,531231CB871D0C0AB198E76F1DE1F902,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,36650f772993d399bcc3896083d17f8f,36650F772993D399BCC3896083D17F8F,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,0451977c7d1658a3801e414ad4f42a16,0451977C7D1658A3801E414AD4F42A16,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,e0beb55053311b6374210af6e526910a,E0BEB55053311B6374210AF6E526910A,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,ecac064019322cf82df83811e45e2d1a,ECAC064019322CF82DF83811E45E2D1A,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,780cecb4da3b43201086d98f871686f2,780CECB4DA3B43201086D98F871686F2,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,8bb1340b924f4678fae9a3d70709e670,8BB1340B924F4678FAE9A3D70709E670,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a078088ff839e613eff3e18f4e8c7640,A078088FF839E613EFF3E18F4E8C7640,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,768c1101183c832a691252877bc2f5c2,768C1101183C832A691252877BC2F5C2,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,cf00afd3f64f95998f3b74a05078e709,CF00AFD3F64F95998F3B74A05078E709,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,2061f8c12934866ab581e2c0b6a2ab31,2061F8C12934866AB581E2C0B6A2AB31,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,0a92d09b82b7e68a914dc62750659a4f,0A92D09B82B7E68A914DC62750659A4F,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,8c04b44f1af3d02e0327eaacde5eb6e4,8C04B44F1AF3D02E0327EAACDE5EB6E4,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,122262bfae9b72ceed54823aa0f19e01,122262BFAE9B72CEED54823AA0F19E01,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,9e3446140791e074b10c6a356cf2369a,9E3446140791E074B10C6A356CF2369A,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,4561e37a271dce55483519065e6ff122,4561E37A271DCE55483519065E6FF122,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,06802891b275a9ff40c5adfa155cc1a2,06802891B275A9FF40C5ADFA155CC1A2,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a6a39e570f2887797a6acf2b9eab9b36,A6A39E570F2887797A6ACF2B9EAB9B36,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a7cc34dd65611fde2fa06c55ffa03b1b,A7CC34DD65611FDE2FA06C55FFA03B1B,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,1c9ef0b20eaca2b2229cd832f1294e51,1C9EF0B20EACA2B2229CD832F1294E51,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,c28c100f83eed50ecbd6834f046e0491,C28C100F83EED50ECBD6834F046E0491,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,683d2ff7a261492c663bcd2297548ea1,683D2FF7A261492C663BCD2297548EA1,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,3371d75e9de7fb813ca205cb8cf1cbed,3371D75E9DE7FB813CA205CB8CF1CBED,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,d1cecc9833e7d5ce2b80b76ddedb9743,D1CECC9833E7D5CE2B80B76DDEDB9743,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,2ae566cbb13127ea44e10f448831b421,2AE566CBB13127EA44E10F448831B421,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,421e9528b782ae18d2940581b3f8213e,421E9528B782AE18D2940581B3F8213E,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,59084bf46847d20235f37dde6d8be432,59084BF46847D20235F37DDE6D8BE432,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,293ce7c61f4d88190e553b0acef8ae6e,293CE7C61F4D88190E553B0ACEF8AE6E,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,6958af386978a85e2a3ace41739ec5d0,6958AF386978A85E2A3ACE41739EC5D0,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a7dfab45ff6c1b1514950b4ecbe4f961,A7DFAB45FF6C1B1514950B4ECBE4F961,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,91e17607a6529da7239a14c547dcfbee,91E17607A6529DA7239A14C547DCFBEE,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,4a40e8bfbb7778ffa4a3903cd567c2c5,4A40E8BFBB7778FFA4A3903CD567C2C5,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,f22f90e9e1af134efbb61061c82707e9,F22F90E9E1AF134EFBB61061C82707E9,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,9798af66937f9a9f9fb3d5c87b6751af,9798AF66937F9A9F9FB3D5C87B6751AF,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,831fa36342c4da97d7afe7ece0374eb1,831FA36342C4DA97D7AFE7ECE0374EB1,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,55687b9d2b142ee6b9c784b3fc8f08be,55687B9D2B142EE6B9C784B3FC8F08BE,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,1a56b2b94c622fd9cec72d42faeac1b1,1A56B2B94C622FD9CEC72D42FAEAC1B1,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a422e68a13b24a3744156a93c9b992fb,A422E68A13B24A3744156A93C9B992FB,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,c618054d04e9c3a05e3fb29ef25edb0d,C618054D04E9C3A05E3FB29EF25EDB0D,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,dbeba0c12664a27e37078b82e0698483,DBEBA0C12664A27E37078B82E0698483,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,6fa1ed73ec4c3f385683c9fc03a3c062,6FA1ED73EC4C3F385683C9FC03A3C062,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,3feb5ed25d579fa7b6d499d5781e59ff,3FEB5ED25D579FA7B6D499D5781E59FF,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,475e898f9e47be88e311bdf59bd5ff74,475E898F9E47BE88E311BDF59BD5FF74,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,8249a4ab0b319714eb0e379fd187ee4a,8249A4AB0B319714EB0E379FD187EE4A,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,e6470ec327be85c43e95fe87c9ddb8e3,E6470EC327BE85C43E95FE87C9DDB8E3,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,97b2a9ca90462b4714dd30d08d30775a,97B2A9CA90462B4714DD30D08D30775A,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,c9feccf2be33616429cff280bbce7c45,C9FECCF2BE33616429CFF280BBCE7C45,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,5038ea3dcec218e7ab65b6c5b9777178,5038EA3DCEC218E7AB65B6C5B9777178,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,660065297a7b7ed55f49e1b8b857c516,660065297A7B7ED55F49E1B8B857C516,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,0bb15e7999b982ab1858791303f95f4d,0BB15E7999B982AB1858791303F95F4D,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,ea846b7e375e41ad2503e0c70cf4820a,EA846B7E375E41AD2503E0C70CF4820A,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,6c2d2ad20daf6bc2575fd9f9eb1902e2,6C2D2AD20DAF6BC2575FD9F9EB1902E2,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,e11d631fc2665b150aa8f0e5951b9783,E11D631FC2665B150AA8F0E5951B9783,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,3777460cb719ba6aa80f9cbe6e60cdda,3777460CB719BA6AA80F9CBE6E60CDDA,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,841dafca282c840b4a644b2276da6159,841DAFCA282C840B4A644B2276DA6159,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,1b13f107009820e1bc2f357e81b77d58,1B13F107009820E1BC2F357E81B77D58,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,8b7144580f23532784a267f38de0a7d9,8B7144580F23532784A267F38DE0A7D9,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,622682cd670da8552a33332e4790c87d,622682CD670DA8552A33332E4790C87D,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,117b12cf37aa3df1ce7b41d1a9f6b506,117B12CF37AA3DF1CE7B41D1A9F6B506,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,2838bd27e67c60da32c60a56cc38639d,2838BD27E67C60DA32C60A56CC38639D,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,828ac3876d0d8399f878e18ff43399bf,828AC3876D0D8399F878E18FF43399BF,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,71ca19879ebbb39e0a3c11d1cb30bd4e,71CA19879EBBB39E0A3C11D1CB30BD4E,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,a30af00257ba98056f7ee4158b0a4a32,A30AF00257BA98056F7EE4158B0A4A32,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,hash,6a5f8e75e58c91ca6509806ef1eace85,6A5F8E75E58C91CA6509806EF1EACE85,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,motivacao,"AGRAVANTE.EM MEIO DIGITAL (internet, Redes Sociais, WhatsApp, etc)","AGRAVANTE.EM MEIO DIGITAL (INTERNET, REDES SOCIAIS, WHATSAPP, ETC)",24,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,motivacao,AGRAVANTE.EM PÚBLICO OU POR MEIO QUE FACILITE A DIVULGAÇÃO (Exceto Digital),AGRAVANTE.EM PÚBLICO OU POR MEIO QUE FACILITE A DIVULGAÇÃO (EXCETO DIGITAL),3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,faixa_de_renda_da_vitima,3 A 5 SM ,3 A 5 SM,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,violacao,INTEGRIDADE>PSÍQUICA>AMEAÇA ou COAÇÃO,INTEGRIDADE>PSÍQUICA>AMEAÇA OU COAÇÃO,341,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,violacao,INTEGRIDADE>FÍSICA>AGRESSÃO ou VIAS DE FATO,INTEGRIDADE>FÍSICA>AGRESSÃO OU VIAS DE FATO,134,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,violacao,LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA À DE ESCRAVO>TRANSPORTAR TRABALHADOR PARA FINS DE EXPLORAÇÃO ,LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA À DE ESCRAVO>TRANSPORTAR TRABALHADOR PARA FINS DE EXPLORAÇÃO,70,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,violacao,INTEGRIDADE>FÍSICA>SITUAÇÃO DE RUA ou ABANDONO MATERIAL,INTEGRIDADE>FÍSICA>SITUAÇÃO DE RUA OU ABANDONO MATERIAL,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,violacao,LIBERDADE>DE RELIGIÃO ou CRENÇA>NÃO CRENÇA,LIBERDADE>DE RELIGIÃO OU CRENÇA>NÃO CRENÇA,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,normalize_text,violacao,LIBERDADE>DE RELIGIÃO ou CRENÇA>DE CULTO,LIBERDADE>DE RELIGIÃO OU CRENÇA>DE CULTO,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,denuncia_emergencial,N/D,<NA>,1,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,cenario_da_violacao,NÃO SABE INFORMAR,<NA>,242,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,uf,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,773,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,uf,N/D,<NA>,136,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,uf,ATENDIMENTO INTERROMPIDO,<NA>,18,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,municipio,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,781,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,municipio,N/D,<NA>,136,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,municipio,ATENDIMENTO INTERROMPIDO,<NA>,18,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,frequencia,NÃO SABE INFORMAR,<NA>,1553,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,frequencia,N/D,<NA>,17,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,inicio_das_violacoes,NÃO SABE INFORMAR,<NA>,1505,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,inicio_das_violacoes,N/D,<NA>,23,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,motivacao,N/D,<NA>,221,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,relacao_vitima_suspeito,NÃO SABE INFORMAR,<NA>,385,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,relacao_vitima_suspeito,N/D,<NA>,29,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,genero_da_vitima,N/D,<NA>,354,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,genero_da_vitima,NÃO INFORMADO,<NA>,320,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,orientacao_sexual_da_vitima,N/D,<NA>,945,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,orientacao_sexual_da_vitima,NÃO INFORMADO,<NA>,391,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,faixa_etaria_da_vitima,NÃO INFORMADO,<NA>,70,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,nacionalidade_da_vitima,N/D,<NA>,97,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,sl_vitima_naturalizado_uf,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,52,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,sl_vitima_naturalizado_municipio,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,15,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,deficiencia_da_vitima,N/D,<NA>,817,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,deficiencia_da_vitima,NÃO INFORMADO,<NA>,32,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,doenca_rara_da_vitima,N/D,<NA>,252,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,deficiencia_relacionada_a_doenca_rara,NÃO SABE INFORMAR,<NA>,10,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,vitima_preso_a,N/D,<NA>,740,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,vitima_preso_a,NÃO INFORMADO,<NA>,543,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,uf_da_vitima,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,1228,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,uf_da_vitima,ATENDIMENTO INTERROMPIDO,<NA>,148,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,uf_da_vitima,N/D,<NA>,40,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,municipio_da_vitima,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,1225,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,municipio_da_vitima,ATENDIMENTO INTERROMPIDO,<NA>,138,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,municipio_da_vitima,N/D,<NA>,98,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,municipio_da_vitima,ATENDIMENTO INTERRPOMPIDO,<NA>,18,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,profissao_da_vitima,N/D,<NA>,916,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,profissao_da_vitima,NÃO SABE INFORMAR,<NA>,193,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,grau_de_instrucao_da_vitima,N/D,<NA>,819,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,religiao_da_vitima,N/D,<NA>,887,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,religiao_da_vitima,NÃO SABE,<NA>,260,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,raca_cor_da_vitima,NÃO INFORMADO,<NA>,3210,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,raca_cor_da_vitima,N/D,<NA>,599,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,etnia_da_vitima,N/D,<NA>,915,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,faixa_de_renda_da_vitima,N/D,<NA>,857,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,genero_do_suspeito,N/D,<NA>,252,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,genero_do_suspeito,NÃO INFORMADO,<NA>,218,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,orientacao_sexual_do_suspeito,N/D,<NA>,925,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,orientacao_sexual_do_suspeito,NÃO INFORMADO,<NA>,75,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,faixa_etaria_do_suspeito,NÃO INFORMADO,<NA>,955,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,faixa_etaria_do_suspeito,N/D,<NA>,333,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,suspeito_nacionalidade,N/D,<NA>,186,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,sl_suspeito_naturalizado_uf,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,98,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,sl_suspeito_naturalizado_municipio,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,31,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,deficiencia_do_suspeito,N/D,<NA>,801,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,deficiencia_do_suspeito,NÃO INFORMADO,<NA>,26,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,doenca_rara_do_suspeito,N/D,<NA>,206,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,deficiencia_relacionada_a_doenca_rara_suspeito,NÃO SABE INFORMAR,<NA>,730,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,suspeito_preso,NÃO INFORMADO,<NA>,1476,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,suspeito_preso,N/D,<NA>,665,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,uf_do_suspeito,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,1000,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,uf_do_suspeito,N/D,<NA>,142,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,uf_do_suspeito,ATENDIMENTO INTERROMPIDO,<NA>,60,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,sl_suspeito_municipio,DENUNCIANTE NÃO SOUBE INFORMAR,<NA>,1038,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,sl_suspeito_municipio,N/D,<NA>,151,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,sl_suspeito_municipio,ATENDIMENTO INTERROMPIDO,<NA>,60,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,sl_suspeito_municipio,ATENDIMENTO INTERRPOMPIDO,<NA>,18,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,profissao_do_suspeito,NÃO SABE INFORMAR,<NA>,1999,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,profissao_do_suspeito,N/D,<NA>,802,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,grau_de_instrucao_do_suspeito,N/D,<NA>,740,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,religiao_do_suspeito,N/D,<NA>,869,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,religiao_do_suspeito,NÃO SABE,<NA>,120,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,raca_cor_do_suspeito,NÃO INFORMADO,<NA>,1012,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,raca_cor_do_suspeito,N/D,<NA>,428,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,suspeito_etnia,N/D,<NA>,915,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,faixa_de_renda_do_suspeito,N/D,<NA>,785,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,sl_suspeito_ramo,N/D,<NA>,925,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,suspeito_especificacao_etnia,N/D,<NA>,915,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,suspeito_especificacao_etnia,NÃO INFORMADO,<NA>,39,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,vitima_especificacao_etnia,N/D,<NA>,933,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,text_missing_to_na,vitima_especificacao_etnia,NÃO INFORMADO,<NA>,28,Numeric sentinel codes excluded by research decision
-2026-11-19T14:07:12.997123+00:00,uniform_negative_class,deficiencia_da_vitima,NÃO TEM DEFICIÊNCIA,NÃO,122,NÃO TEM DEFICIÊNCIA and NÃO TEM DOENÇA RARA standardized to NÃO
-2026-11-19T14:07:12.997123+00:00,uniform_negative_class,doenca_rara_da_vitima,NÃO TEM DOENÇA RARA,NÃO,695,NÃO TEM DEFICIÊNCIA and NÃO TEM DOENÇA RARA standardized to NÃO
-2026-11-19T14:07:12.997123+00:00,uniform_negative_class,deficiencia_do_suspeito,NÃO TEM DEFICIÊNCIA,NÃO,143,NÃO TEM DEFICIÊNCIA and NÃO TEM DOENÇA RARA standardized to NÃO
-2026-11-19T14:07:12.997123+00:00,uniform_negative_class,doenca_rara_do_suspeito,NÃO TEM DOENÇA RARA,NÃO,741,NÃO TEM DEFICIÊNCIA and NÃO TEM DOENÇA RARA standardized to NÃO
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA CONDIÇÃO SOCIAL,.EM RAZÃO DA CONDIÇÃO SOCIAL,163,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA IDADE,.EM RAZÃO DA IDADE,135,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.POR CONDUTAS EXCESSIVAS/DESNECESSÁRIAS/DESACONSELHADAS,.POR CONDUTAS EXCESSIVAS/DESNECESSÁRIAS/DESACONSELHADAS,120,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.DO AGRESSOR POSSUIR INFLUÊNCIA JUNTO ÀS AUTORIDADES LOCAIS,.DO AGRESSOR POSSUIR INFLUÊNCIA JUNTO ÀS AUTORIDADES LOCAIS,100,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,"AGRAVANTE.POR MOTIVO VIL, TORPE, INSIDIOSO, CRUEL, À TRAIÇÃO, OU POR DINHEIRO",".POR MOTIVO VIL, TORPE, INSIDIOSO, CRUEL, À TRAIÇÃO, OU POR DINHEIRO",74,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.FOI PRATICADO POR DUAS OU MAIS PESSOAS,.FOI PRATICADO POR DUAS OU MAIS PESSOAS,73,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.NA RELAÇÃO FAMILIAR,.NA RELAÇÃO FAMILIAR,71,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO SEXUAL,.PARA FINS DE EXPLORAÇÃO SEXUAL,68,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.COM FINS CORRETIVOS,.COM FINS CORRETIVOS,62,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA OBTENÇÃO DE BENEFÍCIO FINANCEIRO/GANÂNCIA,.PARA OBTENÇÃO DE BENEFÍCIO FINANCEIRO/GANÂNCIA,55,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.COM HUMILHAÇÃO,.COM HUMILHAÇÃO,36,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE ATIVIDADE ILÍCITA,.PARA FINS DE ATIVIDADE ILÍCITA,31,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE ADOÇÃO,.PARA FINS DE ADOÇÃO,29,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.DA COABITAÇÃO/CONVIVÊNCIA FAMILIAR/RELAÇÃO AFETIVA,.DA COABITAÇÃO/CONVIVÊNCIA FAMILIAR/RELAÇÃO AFETIVA,25,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,"AGRAVANTE.EM MEIO DIGITAL (INTERNET, REDES SOCIAIS, WHATSAPP, ETC)",".EM MEIO DIGITAL (INTERNET, REDES SOCIAIS, WHATSAPP, ETC)",24,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,PARA FINS DE EXPLORAÇÃO DO TRABALHO.DOMÉSTICO,PARA FINS DE EXPLORAÇÃO DO TRABALHO,21,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,PARA FINS DE EXPLORAÇÃO DO TRABALHO.INFORMAL,PARA FINS DE EXPLORAÇÃO DO TRABALHO,20,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE SER MULHER,.EM RAZÃO DE SER MULHER,20,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE REMOÇÃO DE ÓRGÃOS/TRÁFICO DE ÓRGÃOS,.PARA FINS DE REMOÇÃO DE ÓRGÃOS/TRÁFICO DE ÓRGÃOS,19,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,PARA FINS DE EXPLORAÇÃO DO TRABALHO.COMÉRCIO/ INDÚSTRIA,PARA FINS DE EXPLORAÇÃO DO TRABALHO,14,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE CONFLITO DE IDEIAS,.EM RAZÃO DE CONFLITO DE IDEIAS,11,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,"MOTIVAÇÃO.EM RAZÃO DE CONDIÇÕES FÍSICAS, SENSORIAIS, INTELECTUAIS OU MENTAIS",".EM RAZÃO DE CONDIÇÕES FÍSICAS, SENSORIAIS, INTELECTUAIS OU MENTAIS",9,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.POR VIOLÊNCIA INSTITUCIONAL,.POR VIOLÊNCIA INSTITUCIONAL,9,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.EM RAZÃO DE SER POLICIAL/MILITAR/DEMAIS AGENTE DE SEGURANÇA PÚBLICA,.EM RAZÃO DE SER POLICIAL/MILITAR/DEMAIS AGENTE DE SEGURANÇA PÚBLICA,9,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO DO TRABALHO.OUTROS,,8,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO DO TRABALHO.COMÉRCIO/ INDÚSTRIA,,8,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,PARA FINS DE EXPLORAÇÃO DO TRABALHO.OUTROS,PARA FINS DE EXPLORAÇÃO DO TRABALHO,7,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.RESULTANDO EM LESÃO,.RESULTANDO EM LESÃO,6,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA PROFISSÃO,.EM RAZÃO DA PROFISSÃO,5,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE SER COMUNICADOR SOCIAL,.EM RAZÃO DE SER COMUNICADOR SOCIAL,5,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.COM RESULTADO MORTE,.COM RESULTADO MORTE,4,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,ELEMENTO CIRCUNSTANCIAL.NA FORMA CULPOSA,.NA FORMA CULPOSA,4,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO DO TRABALHO.INFORMAL,,4,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA ETNIA,.EM RAZÃO DA ETNIA,4,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.EM PÚBLICO OU POR MEIO QUE FACILITE A DIVULGAÇÃO (EXCETO DIGITAL),.EM PÚBLICO OU POR MEIO QUE FACILITE A DIVULGAÇÃO (EXCETO DIGITAL),3,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.COM VÍTIMA EM SITUAÇÃO DE RUA,.COM VÍTIMA EM SITUAÇÃO DE RUA,3,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO DO TRABALHO.DOMÉSTICO,,3,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA ORIGEM,.EM RAZÃO DA ORIGEM,3,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.RESULTANDO EM LESÃO SEGUIDA DE MORTE,.RESULTANDO EM LESÃO SEGUIDA DE MORTE,3,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,AGRAVANTE.FALTA DE ACESSIBILIDADE.NA COMUNICAÇÃO,.FALTA DE ACESSIBILIDADE.NA COMUNICAÇÃO,3,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE ORIENTAÇÃO SEXUAL,.EM RAZÃO DE ORIENTAÇÃO SEXUAL,2,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE DISCURSO DE ÓDIO,.EM RAZÃO DE DISCURSO DE ÓDIO,2,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE RAÇA/COR,.EM RAZÃO DE RAÇA/COR,1,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA RELAÇÃO DE ENSINO,.EM RAZÃO DA RELAÇÃO DE ENSINO,1,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,clean_motivacao,motivacao,ELEMENTO CIRCUNSTANCIAL.NA FORMA DE AUXÍLIO/INSTIGAÇÃO/INDUZIMENTO/INCITAÇÃO,.NA FORMA DE AUXÍLIO/INSTIGAÇÃO/INDUZIMENTO/INCITAÇÃO,1,Remove prefixes and retain first sentence for labor-exploitation phrase
-2026-11-19T14:07:12.997123+00:00,remove_space_before_parenthetical_a,relacao_vitima_suspeito,CUNHADO (A),CUNHADO(A),8,AMIGO (A) -> AMIGO(A)
-2026-11-19T14:07:12.997123+00:00,remove_space_before_parenthetical_a,relacao_vitima_suspeito,AMIGO (A),AMIGO(A),5,AMIGO (A) -> AMIGO(A)
-2026-11-19T14:07:12.997123+00:00,remove_space_before_parenthetical_a,relacao_vitima_suspeito,VIZINHO (A),VIZINHO(A),1,AMIGO (A) -> AMIGO(A)
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,AGÊNCIA REGULADORA ? MUNICIPAL,AGÊNCIA REGULADORA - MUNICIPAL,163,
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,"SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS ? FEDERAL","SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS - FEDERAL",77,
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,"SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS ? MUNICIPAL","SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS - MUNICIPAL",66,
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,PODER EXECUTIVO EM GERAL ? ESTADUAL/DISTRITO FEDERAL,PODER EXECUTIVO EM GERAL - ESTADUAL/DISTRITO FEDERAL,65,
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,"SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS ? ESTADUAL/DISTRITO FEDERAL","SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS - ESTADUAL/DISTRITO FEDERAL",24,
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,PODER LEGISLATIVO ? MUNICIPAL,PODER LEGISLATIVO - MUNICIPAL,20,
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,PODER EXECUTIVO EM GERAL ? FEDERAL,PODER EXECUTIVO EM GERAL - FEDERAL,13,
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,PODER LEGISLATIVO ? ESTADUAL/DISTRITO FEDERAL,PODER LEGISLATIVO - ESTADUAL/DISTRITO FEDERAL,9,
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,AGÊNCIA REGULADORA ? FEDERAL,AGÊNCIA REGULADORA - FEDERAL,7,
-2026-11-19T14:07:12.997123+00:00,replace_question_with_hyphen,sl_suspeito_ramo,AGÊNCIA REGULADORA ? ESTADUAL/DISTRITO FEDERAL,AGÊNCIA REGULADORA - ESTADUAL/DISTRITO FEDERAL,2,
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,f585bc8f7823850fb2b4ce43841d13d4,F585BC8F7823850FB2B4CE43841D13D4,28,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,f6b01103437d104e6381bc8237a347be,F6B01103437D104E6381BC8237A347BE,22,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,fe98c48ce3636be263dab63e8b46ea49,FE98C48CE3636BE263DAB63E8B46EA49,18,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,4dfb07b4d93940fa77fdf43b634de7c3,4DFB07B4D93940FA77FDF43B634DE7C3,17,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,ffefe137ad8ef0f0fcbb895d0ce818fd,FFEFE137AD8EF0F0FCBB895D0CE818FD,16,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,719adcc9524163f260d46e4ffe0bf22a,719ADCC9524163F260D46E4FFE0BF22A,15,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,79c48e0d422d3ab1a306f8d7e498b8be,79C48E0D422D3AB1A306F8D7E498B8BE,14,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,f084027b26161cb94001611d23125ae7,F084027B26161CB94001611D23125AE7,14,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,7d5e2e2e6237a25b75298ddec32f0e2e,7D5E2E2E6237A25B75298DDEC32F0E2E,14,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,3448319dd9ad65f23a95a63600ca89c3,3448319DD9AD65F23A95A63600CA89C3,14,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a1d8473a2347739892a11c7671df8e28,A1D8473A2347739892A11C7671DF8E28,12,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,dcb94dcf091aee655ea0f72272e3bf2c,DCB94DCF091AEE655EA0F72272E3BF2C,12,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,e66c22ae66ebf300a2f5c529001f0946,E66C22AE66EBF300A2F5C529001F0946,11,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,54f5e47714ef9d90097955bc4cf22e5c,54F5E47714EF9D90097955BC4CF22E5C,11,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,fa62d006d0964b75ea2b66280336f87d,FA62D006D0964B75EA2B66280336F87D,11,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,0b9e67b28384351a4006c49ba3ff66b7,0B9E67B28384351A4006C49BA3FF66B7,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,2ef050880ba4bc66c8692c9659aa6670,2EF050880BA4BC66C8692C9659AA6670,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,190a2429c4e2002e3acd6ef7c6c9ed3b,190A2429C4E2002E3ACD6EF7C6C9ED3B,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,c8bab6f67c8966b367f7a0002b5eae0f,C8BAB6F67C8966B367F7A0002B5EAE0F,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,ee4929e91b7f5f4906ac8b3667f59a19,EE4929E91B7F5F4906AC8B3667F59A19,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,54340a1750edb8931c0b5d5fdd03a80c,54340A1750EDB8931C0B5D5FDD03A80C,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,4bb52bee9614167cc4f7d7e89e699245,4BB52BEE9614167CC4F7D7E89E699245,10,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,40279fdab0005efa6f3068cc4a7639e4,40279FDAB0005EFA6F3068CC4A7639E4,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,fdf5944ce50ac510523e09cbd37e9270,FDF5944CE50AC510523E09CBD37E9270,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,253bca99807c4c78df30249520ef3c9c,253BCA99807C4C78DF30249520EF3C9C,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,853bdc9cd8bd1addb0b083e6e5378c6c,853BDC9CD8BD1ADDB0B083E6E5378C6C,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,0a9faaf07badc4c5aca94599fc6082b3,0A9FAAF07BADC4C5ACA94599FC6082B3,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,bc5703fffe7244a7427025ad7a9e2f5a,BC5703FFFE7244A7427025AD7A9E2F5A,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,6362b17d072be85a138c40989e645ec1,6362B17D072BE85A138C40989E645EC1,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,e8af5cdc19d825e9743249df4929c125,E8AF5CDC19D825E9743249DF4929C125,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,d3b6fc3b69386842b4fe57ea84e4cf64,D3B6FC3B69386842B4FE57EA84E4CF64,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,9b80d4e9f533d0d8c811bbcae231d3ab,9B80D4E9F533D0D8C811BBCAE231D3AB,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,5b4ed34860afe9207f25f3db6a2d25c5,5B4ED34860AFE9207F25F3DB6A2D25C5,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,3bccea611367f36e2e0c24e1d387db95,3BCCEA611367F36E2E0C24E1D387DB95,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a9dfad5910750164ed1ee8ad2083575c,A9DFAD5910750164ED1EE8AD2083575C,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,435d63b04dd10a1c7958caae4c0d4ec7,435D63B04DD10A1C7958CAAE4C0D4EC7,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,d1631a86d13998d12179505335867ff4,D1631A86D13998D12179505335867FF4,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,b954fe35bb2acb7d1162ac579a0d329e,B954FE35BB2ACB7D1162AC579A0D329E,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,fa9ae4aadcd9900ff92ff7e4c125e628,FA9AE4AADCD9900FF92FF7E4C125E628,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,2850e468c852466c8825280f0d10d46e,2850E468C852466C8825280F0D10D46E,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,cf9ff21a1e69dbe974223f167ba6efcf,CF9FF21A1E69DBE974223F167BA6EFCF,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,105ee74c81268a30a1919efd41616168,105EE74C81268A30A1919EFD41616168,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,9465c21b10ddcfaa52d1d0a02b7dad97,9465C21B10DDCFAA52D1D0A02B7DAD97,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a8001c5fdda5eff688099832ce7ea1a9,A8001C5FDDA5EFF688099832CE7EA1A9,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,c3bc7ab84e33f5dde37dd1f979412a32,C3BC7AB84E33F5DDE37DD1F979412A32,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,b798f3b54a050742bf8a42261aa963d7,B798F3B54A050742BF8A42261AA963D7,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,9e0330f15dab6dc094007d2023ec8766,9E0330F15DAB6DC094007D2023EC8766,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a389d4a9fa05f1b86cf13dff9665af6e,A389D4A9FA05F1B86CF13DFF9665AF6E,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,8091dc720772f7e3082fa1d669b22d17,8091DC720772F7E3082FA1D669B22D17,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,abcc23cdf31c8da485728f5609522fdc,ABCC23CDF31C8DA485728F5609522FDC,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,0f7317beca19f30f87c5ecac43f59e56,0F7317BECA19F30F87C5ECAC43F59E56,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,eeb98db5ff6105a08f545594938fb596,EEB98DB5FF6105A08F545594938FB596,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,694932649ba7a390bcc9765ee3c5e2c5,694932649BA7A390BCC9765EE3C5E2C5,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,9d4c14916230978d0736c87259bfeb98,9D4C14916230978D0736C87259BFEB98,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,71ba6eace9ea9aad0e450bbac0cf73bb,71BA6EACE9EA9AAD0E450BBAC0CF73BB,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,990824b361f70265104d246076a92d5a,990824B361F70265104D246076A92D5A,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,f4cd3f9c2c09895bafee35766db43323,F4CD3F9C2C09895BAFEE35766DB43323,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,3eb4c90aa2217517ac9b421cc0fbe1fa,3EB4C90AA2217517AC9B421CC0FBE1FA,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,cbba4761f54de8a91b9aed3265a2d5c6,CBBA4761F54DE8A91B9AED3265A2D5C6,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,92d47fe182e07e69cd67a1e6f54b040c,92D47FE182E07E69CD67A1E6F54B040C,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a130ef916bdbb618e334806d5584accc,A130EF916BDBB618E334806D5584ACCC,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,fb29c3bbad1dbe2e2ee5164c8b7ff349,FB29C3BBAD1DBE2E2EE5164C8B7FF349,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,ce207e295932711ac23494214116a4de,CE207E295932711AC23494214116A4DE,6,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,ba12fedf0ff1a3bbe12b853e0ae2da65,BA12FEDF0FF1A3BBE12B853E0AE2DA65,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,9b529e04fc8e48dab3687086881455f8,9B529E04FC8E48DAB3687086881455F8,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,0b04538877a0065f36161eba8e1f7515,0B04538877A0065F36161EBA8E1F7515,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,82de8dbf96d19e98f48358d9cc9a9f89,82DE8DBF96D19E98F48358D9CC9A9F89,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,2dbb09ade34c2ed4cc4037ee640cb277,2DBB09ADE34C2ED4CC4037EE640CB277,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,8a53c4532e5f8738119f1296c1b12a67,8A53C4532E5F8738119F1296C1B12A67,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,ebabf95f23aa05ff7b83ea3a51d1793d,EBABF95F23AA05FF7B83EA3A51D1793D,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,8a4a910bb84be44896de1539c7f474f7,8A4A910BB84BE44896DE1539C7F474F7,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,6d67d416cc63b121144c0f98499c91a3,6D67D416CC63B121144C0F98499C91A3,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,f122356a2e01c791fb723971ebde8cff,F122356A2E01C791FB723971EBDE8CFF,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a7cf2e711b722e6f352799887e6df822,A7CF2E711B722E6F352799887E6DF822,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,6c7376a19568647dd38532d58daeb3ce,6C7376A19568647DD38532D58DAEB3CE,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,5375e309af991ef0e5972391b7cca435,5375E309AF991EF0E5972391B7CCA435,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,6830138a2fa469649ab7b4960ef17c2c,6830138A2FA469649AB7B4960EF17C2C,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,bd551bb9e5fefcb09eb2c1568589b455,BD551BB9E5FEFCB09EB2C1568589B455,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,9f041624ece1858852a30fd8923f6719,9F041624ECE1858852A30FD8923F6719,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,5c99d39e74e26b8182f0945006d4473c,5C99D39E74E26B8182F0945006D4473C,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,1ae27c042a86635b27f7978fec9329ef,1AE27C042A86635B27F7978FEC9329EF,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,cdd45523f338b12e2955bd19c049aba4,CDD45523F338B12E2955BD19C049ABA4,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,d5e8dec5645a2ef486d8acdb7b560ecf,D5E8DEC5645A2EF486D8ACDB7B560ECF,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,c990f8102154a7bf549e566306d98cb2,C990F8102154A7BF549E566306D98CB2,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,bdfcee58a485b6ecc11a33479b723414,BDFCEE58A485B6ECC11A33479B723414,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,700cd6d796a79fa66ac87c00d28172f4,700CD6D796A79FA66AC87C00D28172F4,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a251a9daba2d19f7a0f13b4d97eee378,A251A9DABA2D19F7A0F13B4D97EEE378,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,874f3526e92b86b2dd694c2f1f71b314,874F3526E92B86B2DD694C2F1F71B314,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,2263a2d5dae25a09ed81881fafef2f5d,2263A2D5DAE25A09ED81881FAFEF2F5D,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,da1bfd0c0c3679e94d0582c13a068c4e,DA1BFD0C0C3679E94D0582C13A068C4E,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,adf7317b64fdb9c355a0bbe9a255ae48,ADF7317B64FDB9C355A0BBE9A255AE48,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,6d7e744e17e072f2254b73962d6e2ad9,6D7E744E17E072F2254B73962D6E2AD9,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,22f8f7b9b32b67931965f6c0aa514ea0,22F8F7B9B32B67931965F6C0AA514EA0,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,cdb76937c3cabedc0a992797c27311ac,CDB76937C3CABEDC0A992797C27311AC,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,75a18d1e90decfd57350e12492721e97,75A18D1E90DECFD57350E12492721E97,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,0451977c7d1658a3801e414ad4f42a16,0451977C7D1658A3801E414AD4F42A16,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,ecac064019322cf82df83811e45e2d1a,ECAC064019322CF82DF83811E45E2D1A,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,e0beb55053311b6374210af6e526910a,E0BEB55053311B6374210AF6E526910A,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,780cecb4da3b43201086d98f871686f2,780CECB4DA3B43201086D98F871686F2,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,8bb1340b924f4678fae9a3d70709e670,8BB1340B924F4678FAE9A3D70709E670,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a078088ff839e613eff3e18f4e8c7640,A078088FF839E613EFF3E18F4E8C7640,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,3a4874f643e06772be4096ba3924feeb,3A4874F643E06772BE4096BA3924FEEB,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,1a99e7f1693837bd3e8117adf831530d,1A99E7F1693837BD3E8117ADF831530D,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,2436c143daea7ba207adb2b243338a46,2436C143DAEA7BA207ADB2B243338A46,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,c9b59bf52928f0039c2a5cdac82265ba,C9B59BF52928F0039C2A5CDAC82265BA,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,e378f7a4a71964d768ec5925ddc6edac,E378F7A4A71964D768EC5925DDC6EDAC,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,f18d3ab99dae2f4f1f7c2eee09484ed3,F18D3AB99DAE2F4F1F7C2EEE09484ED3,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,d2fac557aedfea1afea549897cb128fe,D2FAC557AEDFEA1AFEA549897CB128FE,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,531231cb871d0c0ab198e76f1de1f902,531231CB871D0C0AB198E76F1DE1F902,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,36650f772993d399bcc3896083d17f8f,36650F772993D399BCC3896083D17F8F,4,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,cf00afd3f64f95998f3b74a05078e709,CF00AFD3F64F95998F3B74A05078E709,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,768c1101183c832a691252877bc2f5c2,768C1101183C832A691252877BC2F5C2,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,2061f8c12934866ab581e2c0b6a2ab31,2061F8C12934866AB581E2C0B6A2AB31,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,0a92d09b82b7e68a914dc62750659a4f,0A92D09B82B7E68A914DC62750659A4F,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,122262bfae9b72ceed54823aa0f19e01,122262BFAE9B72CEED54823AA0F19E01,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,8c04b44f1af3d02e0327eaacde5eb6e4,8C04B44F1AF3D02E0327EAACDE5EB6E4,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,4561e37a271dce55483519065e6ff122,4561E37A271DCE55483519065E6FF122,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,06802891b275a9ff40c5adfa155cc1a2,06802891B275A9FF40C5ADFA155CC1A2,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,9e3446140791e074b10c6a356cf2369a,9E3446140791E074B10C6A356CF2369A,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a6a39e570f2887797a6acf2b9eab9b36,A6A39E570F2887797A6ACF2B9EAB9B36,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a7cc34dd65611fde2fa06c55ffa03b1b,A7CC34DD65611FDE2FA06C55FFA03B1B,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,1c9ef0b20eaca2b2229cd832f1294e51,1C9EF0B20EACA2B2229CD832F1294E51,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,c28c100f83eed50ecbd6834f046e0491,C28C100F83EED50ECBD6834F046E0491,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,683d2ff7a261492c663bcd2297548ea1,683D2FF7A261492C663BCD2297548EA1,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,3371d75e9de7fb813ca205cb8cf1cbed,3371D75E9DE7FB813CA205CB8CF1CBED,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,d1cecc9833e7d5ce2b80b76ddedb9743,D1CECC9833E7D5CE2B80B76DDEDB9743,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,2ae566cbb13127ea44e10f448831b421,2AE566CBB13127EA44E10F448831B421,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,831fa36342c4da97d7afe7ece0374eb1,831FA36342C4DA97D7AFE7ECE0374EB1,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,55687b9d2b142ee6b9c784b3fc8f08be,55687B9D2B142EE6B9C784B3FC8F08BE,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,1a56b2b94c622fd9cec72d42faeac1b1,1A56B2B94C622FD9CEC72D42FAEAC1B1,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,c618054d04e9c3a05e3fb29ef25edb0d,C618054D04E9C3A05E3FB29EF25EDB0D,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a422e68a13b24a3744156a93c9b992fb,A422E68A13B24A3744156A93C9B992FB,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,dbeba0c12664a27e37078b82e0698483,DBEBA0C12664A27E37078B82E0698483,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,59084bf46847d20235f37dde6d8be432,59084BF46847D20235F37DDE6D8BE432,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,421e9528b782ae18d2940581b3f8213e,421E9528B782AE18D2940581B3F8213E,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,293ce7c61f4d88190e553b0acef8ae6e,293CE7C61F4D88190E553B0ACEF8AE6E,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,6958af386978a85e2a3ace41739ec5d0,6958AF386978A85E2A3ACE41739EC5D0,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,91e17607a6529da7239a14c547dcfbee,91E17607A6529DA7239A14C547DCFBEE,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a7dfab45ff6c1b1514950b4ecbe4f961,A7DFAB45FF6C1B1514950B4ECBE4F961,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,4a40e8bfbb7778ffa4a3903cd567c2c5,4A40E8BFBB7778FFA4A3903CD567C2C5,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,f22f90e9e1af134efbb61061c82707e9,F22F90E9E1AF134EFBB61061C82707E9,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,9798af66937f9a9f9fb3d5c87b6751af,9798AF66937F9A9F9FB3D5C87B6751AF,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,e6470ec327be85c43e95fe87c9ddb8e3,E6470EC327BE85C43E95FE87C9DDB8E3,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,97b2a9ca90462b4714dd30d08d30775a,97B2A9CA90462B4714DD30D08D30775A,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,6fa1ed73ec4c3f385683c9fc03a3c062,6FA1ED73EC4C3F385683C9FC03A3C062,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,8249a4ab0b319714eb0e379fd187ee4a,8249A4AB0B319714EB0E379FD187EE4A,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,3feb5ed25d579fa7b6d499d5781e59ff,3FEB5ED25D579FA7B6D499D5781E59FF,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,475e898f9e47be88e311bdf59bd5ff74,475E898F9E47BE88E311BDF59BD5FF74,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,c9feccf2be33616429cff280bbce7c45,C9FECCF2BE33616429CFF280BBCE7C45,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,5038ea3dcec218e7ab65b6c5b9777178,5038EA3DCEC218E7AB65B6C5B9777178,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,ea846b7e375e41ad2503e0c70cf4820a,EA846B7E375E41AD2503E0C70CF4820A,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,0bb15e7999b982ab1858791303f95f4d,0BB15E7999B982AB1858791303F95F4D,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,660065297a7b7ed55f49e1b8b857c516,660065297A7B7ED55F49E1B8B857C516,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,6c2d2ad20daf6bc2575fd9f9eb1902e2,6C2D2AD20DAF6BC2575FD9F9EB1902E2,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,e11d631fc2665b150aa8f0e5951b9783,E11D631FC2665B150AA8F0E5951B9783,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,3777460cb719ba6aa80f9cbe6e60cdda,3777460CB719BA6AA80F9CBE6E60CDDA,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,841dafca282c840b4a644b2276da6159,841DAFCA282C840B4A644B2276DA6159,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,1b13f107009820e1bc2f357e81b77d58,1B13F107009820E1BC2F357E81B77D58,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,8b7144580f23532784a267f38de0a7d9,8B7144580F23532784A267F38DE0A7D9,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,622682cd670da8552a33332e4790c87d,622682CD670DA8552A33332E4790C87D,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,117b12cf37aa3df1ce7b41d1a9f6b506,117B12CF37AA3DF1CE7B41D1A9F6B506,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,2838bd27e67c60da32c60a56cc38639d,2838BD27E67C60DA32C60A56CC38639D,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,a30af00257ba98056f7ee4158b0a4a32,A30AF00257BA98056F7EE4158B0A4A32,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,6a5f8e75e58c91ca6509806ef1eace85,6A5F8E75E58C91CA6509806EF1EACE85,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,828ac3876d0d8399f878e18ff43399bf,828AC3876D0D8399F878E18FF43399BF,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,hash,71ca19879ebbb39e0a3c11d1cb30bd4e,71CA19879EBBB39E0A3C11D1CB30BD4E,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,motivacao,"AGRAVANTE.EM MEIO DIGITAL (internet, Redes Sociais, WhatsApp, etc)","AGRAVANTE.EM MEIO DIGITAL (INTERNET, REDES SOCIAIS, WHATSAPP, ETC)",24,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,motivacao,EM RAZÃO DE SER POLICIAL/MILITAR*/DEMAIS AGENTE DE SEGURANÇA PÚBLICA,EM RAZÃO DE SER POLICIAL/MILITAR/DEMAIS AGENTE DE SEGURANÇA PÚBLICA,5,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,motivacao,AGRAVANTE.EM PÚBLICO OU POR MEIO QUE FACILITE A DIVULGAÇÃO (Exceto Digital),AGRAVANTE.EM PÚBLICO OU POR MEIO QUE FACILITE A DIVULGAÇÃO (EXCETO DIGITAL),3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,faixa_etaria_da_vitima,RECÉM NASCIDO (ATÉ 90 DIAS ? 3 MESES),RECÉM NASCIDO (ATÉ 90 DIAS 3 MESES),26,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,faixa_de_renda_da_vitima,3 A 5 SM ,3 A 5 SM,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,AGÊNCIA REGULADORA ? MUNICIPAL,AGÊNCIA REGULADORA MUNICIPAL,163,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,"SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS ? FEDERAL","SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS FEDERAL",77,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,"SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS ? MUNICIPAL","SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS MUNICIPAL",66,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,PODER EXECUTIVO EM GERAL ? ESTADUAL/DISTRITO FEDERAL,PODER EXECUTIVO EM GERAL ESTADUAL/DISTRITO FEDERAL,65,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,"SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS ? ESTADUAL/DISTRITO FEDERAL","SEGURANÇA PÚBLICA, FORÇAS ARMADAS, DEFESA CIVIL, BOMBEIROS E ASSEMELHADOS ESTADUAL/DISTRITO FEDERAL",24,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,PODER LEGISLATIVO ? MUNICIPAL,PODER LEGISLATIVO MUNICIPAL,20,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,PODER EXECUTIVO EM GERAL ? FEDERAL,PODER EXECUTIVO EM GERAL FEDERAL,13,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,PODER LEGISLATIVO ? ESTADUAL/DISTRITO FEDERAL,PODER LEGISLATIVO ESTADUAL/DISTRITO FEDERAL,9,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,AGÊNCIA REGULADORA ? FEDERAL,AGÊNCIA REGULADORA FEDERAL,7,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,sl_suspeito_ramo,AGÊNCIA REGULADORA ? ESTADUAL/DISTRITO FEDERAL,AGÊNCIA REGULADORA ESTADUAL/DISTRITO FEDERAL,2,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,violacao,INTEGRIDADE>PSÍQUICA>AMEAÇA ou COAÇÃO,INTEGRIDADE>PSÍQUICA>AMEAÇA OU COAÇÃO,341,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,violacao,INTEGRIDADE>FÍSICA>AGRESSÃO ou VIAS DE FATO,INTEGRIDADE>FÍSICA>AGRESSÃO OU VIAS DE FATO,134,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,violacao,LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA À DE ESCRAVO>TRANSPORTAR TRABALHADOR PARA FINS DE EXPLORAÇÃO ,LIBERDADE>DIREITOS INDIVIDUAIS>CONDIÇÃO ANÁLOGA À DE ESCRAVO>TRANSPORTAR TRABALHADOR PARA FINS DE EXPLORAÇÃO,70,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,violacao,INTEGRIDADE>FÍSICA>SITUAÇÃO DE RUA ou ABANDONO MATERIAL,INTEGRIDADE>FÍSICA>SITUAÇÃO DE RUA OU ABANDONO MATERIAL,8,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,violacao,LIBERDADE>DE RELIGIÃO ou CRENÇA>NÃO CRENÇA,LIBERDADE>DE RELIGIÃO OU CRENÇA>NÃO CRENÇA,3,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,normalize_text,violacao,LIBERDADE>DE RELIGIÃO ou CRENÇA>DE CULTO,LIBERDADE>DE RELIGIÃO OU CRENÇA>DE CULTO,1,"NFKC, trim, collapse spaces, uppercase, preserve accents"
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,denuncia_emergencial,N/D,<NA>,1,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,uf,N/D,<NA>,136,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,municipio,N/D,<NA>,136,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,frequencia,N/D,<NA>,17,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,inicio_das_violacoes,N/D,<NA>,23,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,motivacao,N/D,<NA>,221,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,relacao_vitima_suspeito,N/D,<NA>,29,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,genero_da_vitima,N/D,<NA>,354,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,orientacao_sexual_da_vitima,N/D,<NA>,945,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,nacionalidade_da_vitima,N/D,<NA>,97,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,deficiencia_da_vitima,N/D,<NA>,817,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,doenca_rara_da_vitima,N/D,<NA>,252,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,vitima_preso_a,N/D,<NA>,740,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,uf_da_vitima,N/D,<NA>,40,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,municipio_da_vitima,N/D,<NA>,98,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,profissao_da_vitima,N/D,<NA>,916,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,grau_de_instrucao_da_vitima,N/D,<NA>,819,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,religiao_da_vitima,N/D,<NA>,887,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,raca_cor_da_vitima,N/D,<NA>,599,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,etnia_da_vitima,N/D,<NA>,915,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,faixa_de_renda_da_vitima,N/D,<NA>,857,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,genero_do_suspeito,N/D,<NA>,252,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,orientacao_sexual_do_suspeito,N/D,<NA>,925,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,faixa_etaria_do_suspeito,N/D,<NA>,333,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,suspeito_nacionalidade,N/D,<NA>,186,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,deficiencia_do_suspeito,N/D,<NA>,801,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,doenca_rara_do_suspeito,N/D,<NA>,206,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,suspeito_preso,N/D,<NA>,665,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,uf_do_suspeito,N/D,<NA>,142,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,sl_suspeito_municipio,N/D,<NA>,151,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,profissao_do_suspeito,N/D,<NA>,802,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,grau_de_instrucao_do_suspeito,N/D,<NA>,740,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,religiao_do_suspeito,N/D,<NA>,869,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,raca_cor_do_suspeito,N/D,<NA>,428,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,suspeito_etnia,N/D,<NA>,915,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,faixa_de_renda_do_suspeito,N/D,<NA>,785,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,sl_suspeito_ramo,N/D,<NA>,925,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,suspeito_especificacao_etnia,N/D,<NA>,915,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,text_missing_to_na,vitima_especificacao_etnia,N/D,<NA>,933,Numeric sentinel codes excluded by research decision
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,uf,ATENDIMENTO INTERROMPIDO,<NA>,18,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,municipio,ATENDIMENTO INTERROMPIDO,<NA>,18,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,genero_da_vitima,NÃO SE APLICA - VÍTIMA COMUNIDADE/FAMÍLIA,NÃO SE APLICA,345,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,uf_da_vitima,ATENDIMENTO INTERROMPIDO,<NA>,148,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,municipio_da_vitima,ATENDIMENTO INTERROMPIDO,<NA>,138,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,municipio_da_vitima,ATENDIMENTO INTERRPOMPIDO,<NA>,18,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,genero_do_suspeito,NÃO SE APLICA - VÍTIMA COMUNIDADE/FAMÍLIA,NÃO SE APLICA,49,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,uf_do_suspeito,ATENDIMENTO INTERROMPIDO,<NA>,60,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,sl_suspeito_municipio,ATENDIMENTO INTERROMPIDO,<NA>,60,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,standardize_semantic_categories,sl_suspeito_municipio,ATENDIMENTO INTERRPOMPIDO,<NA>,18,"Operational missing, unknown, partially known, and not applicable tokens"
+2026-11-24T21:57:23.856348+00:00,uniform_negative_class,deficiencia_da_vitima,NÃO TEM DEFICIÊNCIA,NÃO,122,NÃO TEM DEFICIÊNCIA and NÃO TEM DOENÇA RARA standardized to NÃO
+2026-11-24T21:57:23.856348+00:00,uniform_negative_class,doenca_rara_da_vitima,NÃO TEM DOENÇA RARA,NÃO,695,NÃO TEM DEFICIÊNCIA and NÃO TEM DOENÇA RARA standardized to NÃO
+2026-11-24T21:57:23.856348+00:00,uniform_negative_class,deficiencia_do_suspeito,NÃO TEM DEFICIÊNCIA,NÃO,143,NÃO TEM DEFICIÊNCIA and NÃO TEM DOENÇA RARA standardized to NÃO
+2026-11-24T21:57:23.856348+00:00,uniform_negative_class,doenca_rara_do_suspeito,NÃO TEM DOENÇA RARA,NÃO,741,NÃO TEM DEFICIÊNCIA and NÃO TEM DOENÇA RARA standardized to NÃO
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA CONDIÇÃO SOCIAL,EM RAZÃO DA CONDIÇÃO SOCIAL,163,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA IDADE,EM RAZÃO DA IDADE,135,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.POR CONDUTAS EXCESSIVAS/DESNECESSÁRIAS/DESACONSELHADAS,POR CONDUTAS EXCESSIVAS/DESNECESSÁRIAS/DESACONSELHADAS,120,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.DO AGRESSOR POSSUIR INFLUÊNCIA JUNTO ÀS AUTORIDADES LOCAIS,DO AGRESSOR POSSUIR INFLUÊNCIA JUNTO ÀS AUTORIDADES LOCAIS,100,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,"AGRAVANTE.POR MOTIVO VIL, TORPE, INSIDIOSO, CRUEL, À TRAIÇÃO, OU POR DINHEIRO","POR MOTIVO VIL, TORPE, INSIDIOSO, CRUEL, À TRAIÇÃO, OU POR DINHEIRO",74,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.FOI PRATICADO POR DUAS OU MAIS PESSOAS,FOI PRATICADO POR DUAS OU MAIS PESSOAS,73,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.NA RELAÇÃO FAMILIAR,NA RELAÇÃO FAMILIAR,71,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO SEXUAL,PARA FINS DE EXPLORAÇÃO SEXUAL,68,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.COM FINS CORRETIVOS,COM FINS CORRETIVOS,62,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA OBTENÇÃO DE BENEFÍCIO FINANCEIRO/GANÂNCIA,PARA OBTENÇÃO DE BENEFÍCIO FINANCEIRO/GANÂNCIA,55,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.COM HUMILHAÇÃO,COM HUMILHAÇÃO,36,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE ATIVIDADE ILÍCITA,PARA FINS DE ATIVIDADE ILÍCITA,31,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE ADOÇÃO,PARA FINS DE ADOÇÃO,29,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.DA COABITAÇÃO/CONVIVÊNCIA FAMILIAR/RELAÇÃO AFETIVA,DA COABITAÇÃO/CONVIVÊNCIA FAMILIAR/RELAÇÃO AFETIVA,25,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,"AGRAVANTE.EM MEIO DIGITAL (INTERNET, REDES SOCIAIS, WHATSAPP, ETC)","EM MEIO DIGITAL (INTERNET, REDES SOCIAIS, WHATSAPP, ETC)",24,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,PARA FINS DE EXPLORAÇÃO DO TRABALHO.DOMÉSTICO,PARA FINS DE EXPLORAÇÃO DO TRABALHO,21,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,PARA FINS DE EXPLORAÇÃO DO TRABALHO.INFORMAL,PARA FINS DE EXPLORAÇÃO DO TRABALHO,20,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE SER MULHER,EM RAZÃO DE SER MULHER,20,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE REMOÇÃO DE ÓRGÃOS/TRÁFICO DE ÓRGÃOS,PARA FINS DE REMOÇÃO DE ÓRGÃOS/TRÁFICO DE ÓRGÃOS,19,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,PARA FINS DE EXPLORAÇÃO DO TRABALHO.COMÉRCIO/ INDÚSTRIA,PARA FINS DE EXPLORAÇÃO DO TRABALHO,14,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE CONFLITO DE IDEIAS,EM RAZÃO DE CONFLITO DE IDEIAS,11,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.EM RAZÃO DE SER POLICIAL/MILITAR/DEMAIS AGENTE DE SEGURANÇA PÚBLICA,EM RAZÃO DE SER POLICIAL/MILITAR/DEMAIS AGENTE DE SEGURANÇA PÚBLICA,9,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,"MOTIVAÇÃO.EM RAZÃO DE CONDIÇÕES FÍSICAS, SENSORIAIS, INTELECTUAIS OU MENTAIS","EM RAZÃO DE CONDIÇÕES FÍSICAS, SENSORIAIS, INTELECTUAIS OU MENTAIS",9,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.POR VIOLÊNCIA INSTITUCIONAL,POR VIOLÊNCIA INSTITUCIONAL,9,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO DO TRABALHO.OUTROS,PARA FINS DE EXPLORAÇÃO DO TRABALHO,8,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO DO TRABALHO.COMÉRCIO/ INDÚSTRIA,PARA FINS DE EXPLORAÇÃO DO TRABALHO,8,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,PARA FINS DE EXPLORAÇÃO DO TRABALHO.OUTROS,PARA FINS DE EXPLORAÇÃO DO TRABALHO,7,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.RESULTANDO EM LESÃO,RESULTANDO EM LESÃO,6,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA PROFISSÃO,EM RAZÃO DA PROFISSÃO,5,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE SER COMUNICADOR SOCIAL,EM RAZÃO DE SER COMUNICADOR SOCIAL,5,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,ELEMENTO CIRCUNSTANCIAL.NA FORMA CULPOSA,NA FORMA CULPOSA,4,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO DO TRABALHO.INFORMAL,PARA FINS DE EXPLORAÇÃO DO TRABALHO,4,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.COM RESULTADO MORTE,COM RESULTADO MORTE,4,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA ETNIA,EM RAZÃO DA ETNIA,4,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.COM VÍTIMA EM SITUAÇÃO DE RUA,COM VÍTIMA EM SITUAÇÃO DE RUA,3,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA ORIGEM,EM RAZÃO DA ORIGEM,3,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.PARA FINS DE EXPLORAÇÃO DO TRABALHO.DOMÉSTICO,PARA FINS DE EXPLORAÇÃO DO TRABALHO,3,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.RESULTANDO EM LESÃO SEGUIDA DE MORTE,RESULTANDO EM LESÃO SEGUIDA DE MORTE,3,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.EM PÚBLICO OU POR MEIO QUE FACILITE A DIVULGAÇÃO (EXCETO DIGITAL),EM PÚBLICO OU POR MEIO QUE FACILITE A DIVULGAÇÃO (EXCETO DIGITAL),3,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,AGRAVANTE.FALTA DE ACESSIBILIDADE.NA COMUNICAÇÃO,FALTA DE ACESSIBILIDADE.NA COMUNICAÇÃO,3,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE ORIENTAÇÃO SEXUAL,EM RAZÃO DE ORIENTAÇÃO SEXUAL,2,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE DISCURSO DE ÓDIO,EM RAZÃO DE DISCURSO DE ÓDIO,2,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,ELEMENTO CIRCUNSTANCIAL.NA FORMA DE AUXÍLIO/INSTIGAÇÃO/INDUZIMENTO/INCITAÇÃO,NA FORMA DE AUXÍLIO/INSTIGAÇÃO/INDUZIMENTO/INCITAÇÃO,1,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DE RAÇA/COR,EM RAZÃO DE RAÇA/COR,1,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,clean_motivacao,motivacao,MOTIVAÇÃO.EM RAZÃO DA RELAÇÃO DE ENSINO,EM RAZÃO DA RELAÇÃO DE ENSINO,1,Remove prefixes and retain first sentence for labor-exploitation phrase
+2026-11-24T21:57:23.856348+00:00,remove_space_before_parenthetical_a,relacao_vitima_suspeito,CUNHADO (A),CUNHADO(A),8,AMIGO (A) -> AMIGO(A)
+2026-11-24T21:57:23.856348+00:00,remove_space_before_parenthetical_a,relacao_vitima_suspeito,AMIGO (A),AMIGO(A),5,AMIGO (A) -> AMIGO(A)
+2026-11-24T21:57:23.856348+00:00,remove_space_before_parenthetical_a,relacao_vitima_suspeito,VIZINHO (A),VIZINHO(A),1,AMIGO (A) -> AMIGO(A)

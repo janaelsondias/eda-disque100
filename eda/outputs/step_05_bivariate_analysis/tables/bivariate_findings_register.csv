@@ -1,16 +1,16 @@
 ﻿pair,finding_type,finding,interpretation
-violacao × faixa_etaria_da_vitima,association,FDR p=1.109e-169; Cramér's V=0.102 (small),Describe the association and inspect standardized residuals; avoid causal language.
+violacao × faixa_etaria_da_vitima,association,FDR p=8.298e-168; Cramér's V=0.102 (small),Describe the association and inspect standardized residuals; avoid causal language.
 violacao × genero_da_vitima,sparse_table,18.67% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-violacao × raca_cor_da_vitima,association,FDR p=8.702e-99; Cramér's V=0.158 (small),Describe the association and inspect standardized residuals; avoid causal language.
+violacao × raca_cor_da_vitima,association,FDR p=5.366e-63; Cramér's V=0.105 (small),Describe the association and inspect standardized residuals; avoid causal language.
 violacao × grupo_vulneravel,sparse_table,41.48% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-violacao × relacao_vitima_suspeito,sparse_table,27.56% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-violacao × denuncia_emergencial,sparse_table,53.33% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-violacao × uf,association,FDR p=5.554e-96; Cramér's V=0.083 (negligible),Describe the association and inspect standardized residuals; avoid causal language.
+violacao × relacao_vitima_suspeito,sparse_table,22.67% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
+violacao × denuncia_emergencial,sparse_table,41.67% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
+violacao × uf,association,FDR p=1.36e-96; Cramér's V=0.084 (negligible),Describe the association and inspect standardized residuals; avoid causal language.
 grupo_vulneravel × faixa_etaria_da_vitima,sparse_table,43.70% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-relacao_vitima_suspeito × genero_da_vitima,sparse_table,28.00% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-relacao_vitima_suspeito × faixa_etaria_da_vitima,sparse_table,26.22% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
+relacao_vitima_suspeito × genero_da_vitima,sparse_table,24.00% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
+relacao_vitima_suspeito × faixa_etaria_da_vitima,sparse_table,21.78% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
 genero_da_vitima × genero_do_suspeito,sparse_table,28.00% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-faixa_etaria_da_vitima × faixa_etaria_do_suspeito,sparse_table,27.11% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-denuncia_emergencial × cenario_da_violacao,sparse_table,53.33% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-denuncia_emergencial × frequencia,sparse_table,51.43% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
-canal_de_atendimento × denuncia_emergencial,sparse_table,65.00% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
+faixa_etaria_da_vitima × faixa_etaria_do_suspeito,sparse_table,24.89% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
+denuncia_emergencial × cenario_da_violacao,sparse_table,41.67% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
+denuncia_emergencial × frequencia,sparse_table,33.33% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.
+canal_de_atendimento × denuncia_emergencial,sparse_table,50.00% of expected cells below 5,Do not rely on asymptotic chi-square inference; review category aggregation or an exact/Monte Carlo approach.

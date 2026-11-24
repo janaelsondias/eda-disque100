@@ -1,72 +1,68 @@
 ﻿target,group_variable,group_category,n,missing_n,missing_pct
 genero_da_vitima,canal_de_atendimento,CARTA,1,0,0.0
-genero_da_vitima,canal_de_atendimento,E-MAIL,641,39,6.08
-genero_da_vitima,canal_de_atendimento,PORTAL,29,7,24.14
-genero_da_vitima,canal_de_atendimento,PROCESSO SEI,84,33,39.29
-genero_da_vitima,canal_de_atendimento,TELEFÔNICO,6091,1014,16.65
-genero_da_vitima,canal_de_atendimento,TELEGRAM,14,6,42.86
-genero_da_vitima,canal_de_atendimento,WEBCHAT,46,3,6.52
-genero_da_vitima,canal_de_atendimento,WHATSAPP,1495,352,23.55
+genero_da_vitima,canal_de_atendimento,E-MAIL,641,36,5.62
+genero_da_vitima,canal_de_atendimento,PORTAL,29,0,0.0
+genero_da_vitima,canal_de_atendimento,PROCESSO SEI,84,27,32.14
+genero_da_vitima,canal_de_atendimento,TELEFÔNICO,6091,1084,17.8
+genero_da_vitima,canal_de_atendimento,TELEGRAM,14,0,0.0
+genero_da_vitima,canal_de_atendimento,WEBCHAT,46,27,58.7
+genero_da_vitima,canal_de_atendimento,WHATSAPP,1495,314,21.0
 genero_da_vitima,uf,AC,93,81,87.1
 genero_da_vitima,uf,AL,10,0,0.0
 genero_da_vitima,uf,AM,210,10,4.76
 genero_da_vitima,uf,AP,14,14,100.0
-genero_da_vitima,uf,ATENDIMENTO INTERROMPIDO,18,0,0.0
 genero_da_vitima,uf,BA,287,72,25.09
-genero_da_vitima,uf,CE,325,16,4.92
-genero_da_vitima,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,118,15.27
-genero_da_vitima,uf,DF,177,20,11.3
-genero_da_vitima,uf,ES,138,23,16.67
-genero_da_vitima,uf,GO,200,9,4.5
+genero_da_vitima,uf,CE,325,8,2.46
+genero_da_vitima,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,88,11.38
+genero_da_vitima,uf,DF,177,14,7.91
+genero_da_vitima,uf,ES,138,17,12.32
+genero_da_vitima,uf,GO,200,21,10.5
 genero_da_vitima,uf,MA,56,0,0.0
-genero_da_vitima,uf,MG,975,267,27.38
-genero_da_vitima,uf,MS,191,9,4.71
+genero_da_vitima,uf,MG,975,322,33.03
+genero_da_vitima,uf,MS,191,7,3.66
 genero_da_vitima,uf,MT,39,34,87.18
-genero_da_vitima,uf,N/D,136,0,0.0
-genero_da_vitima,uf,PA,74,50,67.57
-genero_da_vitima,uf,PB,41,13,31.71
-genero_da_vitima,uf,PE,231,16,6.93
+genero_da_vitima,uf,PA,74,45,60.81
+genero_da_vitima,uf,PB,41,11,26.83
+genero_da_vitima,uf,PE,231,20,8.66
 genero_da_vitima,uf,PI,3,0,0.0
-genero_da_vitima,uf,PR,276,63,22.83
-genero_da_vitima,uf,RJ,611,149,24.39
-genero_da_vitima,uf,RN,193,175,90.67
+genero_da_vitima,uf,PR,276,52,18.84
+genero_da_vitima,uf,RJ,611,178,29.13
+genero_da_vitima,uf,RN,193,89,46.11
 genero_da_vitima,uf,RO,50,0,0.0
 genero_da_vitima,uf,RR,128,10,7.81
-genero_da_vitima,uf,RS,514,31,6.03
-genero_da_vitima,uf,SC,153,12,7.84
-genero_da_vitima,uf,SE,101,10,9.9
-genero_da_vitima,uf,SP,1797,242,13.47
+genero_da_vitima,uf,RS,514,28,5.45
+genero_da_vitima,uf,SC,153,15,9.8
+genero_da_vitima,uf,SE,101,20,19.8
+genero_da_vitima,uf,SP,1797,243,13.52
 genero_da_vitima,uf,TO,14,0,0.0
-genero_da_vitima,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,0,0.0
+genero_da_vitima,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,52,49.52
 genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,0,0.0
-genero_da_vitima,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,430,30.78
-genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,1008,19.38
-genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,6,2.53
-genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,0,0.0
-genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,0,0.0
-genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,0,0.0
-genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,10,5.18
-genero_da_vitima,denuncia_emergencial,N/D,1,0,0.0
-genero_da_vitima,denuncia_emergencial,NÃO,7646,1393,18.22
+genero_da_vitima,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,372,26.63
+genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,985,18.94
+genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,0,0.0
+genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,5,31.25
+genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,16,32.65
+genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,46,51.11
+genero_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,12,6.22
+genero_da_vitima,denuncia_emergencial,NÃO,7646,1396,18.26
 genero_da_vitima,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,52,8.2
-genero_da_vitima,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,9,7.83
+genero_da_vitima,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,40,34.78
 genero_da_vitima,denuncia_emergencial,VÍTIMA EM SANGRAMENTO,5,0,0.0
 faixa_etaria_da_vitima,canal_de_atendimento,CARTA,1,1,100.0
 faixa_etaria_da_vitima,canal_de_atendimento,E-MAIL,641,7,1.09
-faixa_etaria_da_vitima,canal_de_atendimento,PORTAL,29,3,10.34
+faixa_etaria_da_vitima,canal_de_atendimento,PORTAL,29,0,0.0
 faixa_etaria_da_vitima,canal_de_atendimento,PROCESSO SEI,84,0,0.0
-faixa_etaria_da_vitima,canal_de_atendimento,TELEFÔNICO,6091,380,6.24
+faixa_etaria_da_vitima,canal_de_atendimento,TELEFÔNICO,6091,329,5.4
 faixa_etaria_da_vitima,canal_de_atendimento,TELEGRAM,14,0,0.0
 faixa_etaria_da_vitima,canal_de_atendimento,WEBCHAT,46,26,56.52
-faixa_etaria_da_vitima,canal_de_atendimento,WHATSAPP,1495,58,3.88
+faixa_etaria_da_vitima,canal_de_atendimento,WHATSAPP,1495,42,2.81
 faixa_etaria_da_vitima,uf,AC,93,0,0.0
 faixa_etaria_da_vitima,uf,AL,10,0,0.0
 faixa_etaria_da_vitima,uf,AM,210,0,0.0
 faixa_etaria_da_vitima,uf,AP,14,0,0.0
-faixa_etaria_da_vitima,uf,ATENDIMENTO INTERROMPIDO,18,0,0.0
-faixa_etaria_da_vitima,uf,BA,287,3,1.05
-faixa_etaria_da_vitima,uf,CE,325,9,2.77
-faixa_etaria_da_vitima,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,5,0.65
+faixa_etaria_da_vitima,uf,BA,287,0,0.0
+faixa_etaria_da_vitima,uf,CE,325,8,2.46
+faixa_etaria_da_vitima,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,0,0.0
 faixa_etaria_da_vitima,uf,DF,177,0,0.0
 faixa_etaria_da_vitima,uf,ES,138,0,0.0
 faixa_etaria_da_vitima,uf,GO,200,19,9.5
@@ -74,292 +70,275 @@ faixa_etaria_da_vitima,uf,MA,56,0,0.0
 faixa_etaria_da_vitima,uf,MG,975,80,8.21
 faixa_etaria_da_vitima,uf,MS,191,7,3.66
 faixa_etaria_da_vitima,uf,MT,39,0,0.0
-faixa_etaria_da_vitima,uf,N/D,136,82,60.29
 faixa_etaria_da_vitima,uf,PA,74,5,6.76
 faixa_etaria_da_vitima,uf,PB,41,4,9.76
 faixa_etaria_da_vitima,uf,PE,231,8,3.46
 faixa_etaria_da_vitima,uf,PI,3,0,0.0
-faixa_etaria_da_vitima,uf,PR,276,34,12.32
-faixa_etaria_da_vitima,uf,RJ,611,42,6.87
+faixa_etaria_da_vitima,uf,PR,276,5,1.81
+faixa_etaria_da_vitima,uf,RJ,611,40,6.55
 faixa_etaria_da_vitima,uf,RN,193,0,0.0
 faixa_etaria_da_vitima,uf,RO,50,0,0.0
 faixa_etaria_da_vitima,uf,RR,128,0,0.0
-faixa_etaria_da_vitima,uf,RS,514,13,2.53
+faixa_etaria_da_vitima,uf,RS,514,9,1.75
 faixa_etaria_da_vitima,uf,SC,153,3,1.96
 faixa_etaria_da_vitima,uf,SE,101,10,9.9
-faixa_etaria_da_vitima,uf,SP,1797,141,7.85
+faixa_etaria_da_vitima,uf,SP,1797,125,6.96
 faixa_etaria_da_vitima,uf,TO,14,0,0.0
 faixa_etaria_da_vitima,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,86,81.9
 faixa_etaria_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,0,0.0
-faixa_etaria_da_vitima,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,70,5.01
+faixa_etaria_da_vitima,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,0,0.0
 faixa_etaria_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,243,4.67
 faixa_etaria_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,0,0.0
 faixa_etaria_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,5,31.25
 faixa_etaria_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,16,32.65
 faixa_etaria_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,52,57.78
 faixa_etaria_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,3,1.55
-faixa_etaria_da_vitima,denuncia_emergencial,N/D,1,1,100.0
-faixa_etaria_da_vitima,denuncia_emergencial,NÃO,7646,387,5.06
-faixa_etaria_da_vitima,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,53,8.36
+faixa_etaria_da_vitima,denuncia_emergencial,NÃO,7646,331,4.33
+faixa_etaria_da_vitima,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,39,6.15
 faixa_etaria_da_vitima,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,34,29.57
 faixa_etaria_da_vitima,denuncia_emergencial,VÍTIMA EM SANGRAMENTO,5,0,0.0
-raca_cor_da_vitima,canal_de_atendimento,CARTA,1,0,0.0
-raca_cor_da_vitima,canal_de_atendimento,E-MAIL,641,615,95.94
-raca_cor_da_vitima,canal_de_atendimento,PORTAL,29,13,44.83
-raca_cor_da_vitima,canal_de_atendimento,PROCESSO SEI,84,70,83.33
-raca_cor_da_vitima,canal_de_atendimento,TELEFÔNICO,6091,2143,35.18
+raca_cor_da_vitima,canal_de_atendimento,CARTA,1,1,100.0
+raca_cor_da_vitima,canal_de_atendimento,E-MAIL,641,41,6.4
+raca_cor_da_vitima,canal_de_atendimento,PORTAL,29,0,0.0
+raca_cor_da_vitima,canal_de_atendimento,PROCESSO SEI,84,0,0.0
+raca_cor_da_vitima,canal_de_atendimento,TELEFÔNICO,6091,631,10.36
 raca_cor_da_vitima,canal_de_atendimento,TELEGRAM,14,6,42.86
-raca_cor_da_vitima,canal_de_atendimento,WEBCHAT,46,1,2.17
-raca_cor_da_vitima,canal_de_atendimento,WHATSAPP,1495,572,38.26
-raca_cor_da_vitima,uf,AC,93,81,87.1
+raca_cor_da_vitima,canal_de_atendimento,WEBCHAT,46,30,65.22
+raca_cor_da_vitima,canal_de_atendimento,WHATSAPP,1495,100,6.69
+raca_cor_da_vitima,uf,AC,93,0,0.0
 raca_cor_da_vitima,uf,AL,10,0,0.0
-raca_cor_da_vitima,uf,AM,210,86,40.95
-raca_cor_da_vitima,uf,AP,14,14,100.0
-raca_cor_da_vitima,uf,ATENDIMENTO INTERROMPIDO,18,0,0.0
-raca_cor_da_vitima,uf,BA,287,104,36.24
-raca_cor_da_vitima,uf,CE,325,46,14.15
-raca_cor_da_vitima,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,332,42.95
-raca_cor_da_vitima,uf,DF,177,40,22.6
-raca_cor_da_vitima,uf,ES,138,50,36.23
-raca_cor_da_vitima,uf,GO,200,67,33.5
+raca_cor_da_vitima,uf,AM,210,3,1.43
+raca_cor_da_vitima,uf,AP,14,0,0.0
+raca_cor_da_vitima,uf,BA,287,14,4.88
+raca_cor_da_vitima,uf,CE,325,63,19.38
+raca_cor_da_vitima,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,15,1.94
+raca_cor_da_vitima,uf,DF,177,0,0.0
+raca_cor_da_vitima,uf,ES,138,0,0.0
+raca_cor_da_vitima,uf,GO,200,17,8.5
 raca_cor_da_vitima,uf,MA,56,0,0.0
-raca_cor_da_vitima,uf,MG,975,352,36.1
-raca_cor_da_vitima,uf,MS,191,9,4.71
-raca_cor_da_vitima,uf,MT,39,34,87.18
-raca_cor_da_vitima,uf,N/D,136,0,0.0
-raca_cor_da_vitima,uf,PA,74,56,75.68
-raca_cor_da_vitima,uf,PB,41,21,51.22
-raca_cor_da_vitima,uf,PE,231,94,40.69
+raca_cor_da_vitima,uf,MG,975,89,9.13
+raca_cor_da_vitima,uf,MS,191,7,3.66
+raca_cor_da_vitima,uf,MT,39,0,0.0
+raca_cor_da_vitima,uf,PA,74,5,6.76
+raca_cor_da_vitima,uf,PB,41,13,31.71
+raca_cor_da_vitima,uf,PE,231,20,8.66
 raca_cor_da_vitima,uf,PI,3,0,0.0
-raca_cor_da_vitima,uf,PR,276,112,40.58
-raca_cor_da_vitima,uf,RJ,611,251,41.08
-raca_cor_da_vitima,uf,RN,193,167,86.53
+raca_cor_da_vitima,uf,PR,276,6,2.17
+raca_cor_da_vitima,uf,RJ,611,78,12.77
+raca_cor_da_vitima,uf,RN,193,4,2.07
 raca_cor_da_vitima,uf,RO,50,0,0.0
-raca_cor_da_vitima,uf,RR,128,85,66.41
-raca_cor_da_vitima,uf,RS,514,85,16.54
-raca_cor_da_vitima,uf,SC,153,93,60.78
-raca_cor_da_vitima,uf,SE,101,10,9.9
-raca_cor_da_vitima,uf,SP,1797,859,47.8
+raca_cor_da_vitima,uf,RR,128,3,2.34
+raca_cor_da_vitima,uf,RS,514,13,2.53
+raca_cor_da_vitima,uf,SC,153,3,1.96
+raca_cor_da_vitima,uf,SE,101,11,10.89
+raca_cor_da_vitima,uf,SP,1797,330,18.36
 raca_cor_da_vitima,uf,TO,14,0,0.0
-raca_cor_da_vitima,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,0,0.0
-raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,534,48.02
-raca_cor_da_vitima,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,777,55.62
-raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,1969,37.85
-raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,82,34.6
-raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,0,0.0
-raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,0,0.0
-raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,0,0.0
-raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,58,30.05
-raca_cor_da_vitima,denuncia_emergencial,N/D,1,0,0.0
-raca_cor_da_vitima,denuncia_emergencial,NÃO,7646,3068,40.13
-raca_cor_da_vitima,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,330,52.05
-raca_cor_da_vitima,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,17,14.78
-raca_cor_da_vitima,denuncia_emergencial,VÍTIMA EM SANGRAMENTO,5,5,100.0
-genero_do_suspeito,canal_de_atendimento,CARTA,1,0,0.0
-genero_do_suspeito,canal_de_atendimento,E-MAIL,641,75,11.7
-genero_do_suspeito,canal_de_atendimento,PORTAL,29,8,27.59
-genero_do_suspeito,canal_de_atendimento,PROCESSO SEI,84,38,45.24
-genero_do_suspeito,canal_de_atendimento,TELEFÔNICO,6091,992,16.29
-genero_do_suspeito,canal_de_atendimento,TELEGRAM,14,6,42.86
-genero_do_suspeito,canal_de_atendimento,WEBCHAT,46,1,2.17
-genero_do_suspeito,canal_de_atendimento,WHATSAPP,1495,761,50.9
+raca_cor_da_vitima,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,86,81.9
+raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,0,0.0
+raca_cor_da_vitima,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,22,1.57
+raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,596,11.46
+raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,6,2.53
+raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,5,31.25
+raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,16,32.65
+raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,75,83.33
+raca_cor_da_vitima,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,3,1.55
+raca_cor_da_vitima,denuncia_emergencial,NÃO,7646,503,6.58
+raca_cor_da_vitima,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,257,40.54
+raca_cor_da_vitima,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,48,41.74
+raca_cor_da_vitima,denuncia_emergencial,VÍTIMA EM SANGRAMENTO,5,0,0.0
+genero_do_suspeito,canal_de_atendimento,CARTA,1,1,100.0
+genero_do_suspeito,canal_de_atendimento,E-MAIL,641,68,10.61
+genero_do_suspeito,canal_de_atendimento,PORTAL,29,0,0.0
+genero_do_suspeito,canal_de_atendimento,PROCESSO SEI,84,26,30.95
+genero_do_suspeito,canal_de_atendimento,TELEFÔNICO,6091,1046,17.17
+genero_do_suspeito,canal_de_atendimento,TELEGRAM,14,0,0.0
+genero_do_suspeito,canal_de_atendimento,WEBCHAT,46,16,34.78
+genero_do_suspeito,canal_de_atendimento,WHATSAPP,1495,758,50.7
 genero_do_suspeito,uf,AC,93,0,0.0
 genero_do_suspeito,uf,AL,10,0,0.0
-genero_do_suspeito,uf,AM,210,7,3.33
+genero_do_suspeito,uf,AM,210,4,1.9
 genero_do_suspeito,uf,AP,14,14,100.0
-genero_do_suspeito,uf,ATENDIMENTO INTERROMPIDO,18,18,100.0
 genero_do_suspeito,uf,BA,287,118,41.11
-genero_do_suspeito,uf,CE,325,168,51.69
-genero_do_suspeito,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,160,20.7
-genero_do_suspeito,uf,DF,177,56,31.64
+genero_do_suspeito,uf,CE,325,227,69.85
+genero_do_suspeito,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,62,8.02
+genero_do_suspeito,uf,DF,177,49,27.68
 genero_do_suspeito,uf,ES,138,24,17.39
-genero_do_suspeito,uf,GO,200,8,4.0
+genero_do_suspeito,uf,GO,200,14,7.0
 genero_do_suspeito,uf,MA,56,0,0.0
-genero_do_suspeito,uf,MG,975,401,41.13
+genero_do_suspeito,uf,MG,975,399,40.92
 genero_do_suspeito,uf,MS,191,153,80.1
-genero_do_suspeito,uf,MT,39,26,66.67
-genero_do_suspeito,uf,N/D,136,0,0.0
-genero_do_suspeito,uf,PA,74,40,54.05
-genero_do_suspeito,uf,PB,41,0,0.0
-genero_do_suspeito,uf,PE,231,7,3.03
+genero_do_suspeito,uf,MT,39,21,53.85
+genero_do_suspeito,uf,PA,74,27,36.49
+genero_do_suspeito,uf,PB,41,4,9.76
+genero_do_suspeito,uf,PE,231,12,5.19
 genero_do_suspeito,uf,PI,3,0,0.0
-genero_do_suspeito,uf,PR,276,85,30.8
-genero_do_suspeito,uf,RJ,611,71,11.62
-genero_do_suspeito,uf,RN,193,11,5.7
+genero_do_suspeito,uf,PR,276,74,26.81
+genero_do_suspeito,uf,RJ,611,79,12.93
+genero_do_suspeito,uf,RN,193,10,5.18
 genero_do_suspeito,uf,RO,50,0,0.0
 genero_do_suspeito,uf,RR,128,0,0.0
-genero_do_suspeito,uf,RS,514,29,5.64
-genero_do_suspeito,uf,SC,153,30,19.61
-genero_do_suspeito,uf,SE,101,26,25.74
-genero_do_suspeito,uf,SP,1797,364,20.26
+genero_do_suspeito,uf,RS,514,45,8.75
+genero_do_suspeito,uf,SC,153,27,17.65
+genero_do_suspeito,uf,SE,101,27,26.73
+genero_do_suspeito,uf,SP,1797,408,22.7
 genero_do_suspeito,uf,TO,14,0,0.0
-genero_do_suspeito,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,0,0.0
-genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,187,16.82
-genero_do_suspeito,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,510,36.51
-genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,1110,21.34
+genero_do_suspeito,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,7,6.67
+genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,144,12.95
+genero_do_suspeito,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,422,30.21
+genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,1218,23.41
 genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,19,8.02
-genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,0,0.0
+genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,14,87.5
 genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,16,32.65
-genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,0,0.0
-genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,39,20.21
-genero_do_suspeito,denuncia_emergencial,N/D,1,0,0.0
-genero_do_suspeito,denuncia_emergencial,NÃO,7646,1806,23.62
-genero_do_suspeito,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,65,10.25
-genero_do_suspeito,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,5,4.35
+genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,47,52.22
+genero_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,28,14.51
+genero_do_suspeito,denuncia_emergencial,NÃO,7646,1786,23.36
+genero_do_suspeito,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,113,17.82
+genero_do_suspeito,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,10,8.7
 genero_do_suspeito,denuncia_emergencial,VÍTIMA EM SANGRAMENTO,5,5,100.0
-faixa_etaria_do_suspeito,canal_de_atendimento,CARTA,1,0,0.0
-faixa_etaria_do_suspeito,canal_de_atendimento,E-MAIL,641,428,66.77
-faixa_etaria_do_suspeito,canal_de_atendimento,PORTAL,29,18,62.07
-faixa_etaria_do_suspeito,canal_de_atendimento,PROCESSO SEI,84,84,100.0
-faixa_etaria_do_suspeito,canal_de_atendimento,TELEFÔNICO,6091,2280,37.43
-faixa_etaria_do_suspeito,canal_de_atendimento,TELEGRAM,14,6,42.86
-faixa_etaria_do_suspeito,canal_de_atendimento,WEBCHAT,46,6,13.04
-faixa_etaria_do_suspeito,canal_de_atendimento,WHATSAPP,1495,1012,67.69
+faixa_etaria_do_suspeito,canal_de_atendimento,CARTA,1,1,100.0
+faixa_etaria_do_suspeito,canal_de_atendimento,E-MAIL,641,450,70.2
+faixa_etaria_do_suspeito,canal_de_atendimento,PORTAL,29,0,0.0
+faixa_etaria_do_suspeito,canal_de_atendimento,PROCESSO SEI,84,43,51.19
+faixa_etaria_do_suspeito,canal_de_atendimento,TELEFÔNICO,6091,1809,29.7
+faixa_etaria_do_suspeito,canal_de_atendimento,TELEGRAM,14,0,0.0
+faixa_etaria_do_suspeito,canal_de_atendimento,WEBCHAT,46,16,34.78
+faixa_etaria_do_suspeito,canal_de_atendimento,WHATSAPP,1495,893,59.73
 faixa_etaria_do_suspeito,uf,AC,93,0,0.0
 faixa_etaria_do_suspeito,uf,AL,10,0,0.0
-faixa_etaria_do_suspeito,uf,AM,210,27,12.86
+faixa_etaria_do_suspeito,uf,AM,210,7,3.33
 faixa_etaria_do_suspeito,uf,AP,14,14,100.0
-faixa_etaria_do_suspeito,uf,ATENDIMENTO INTERROMPIDO,18,18,100.0
-faixa_etaria_do_suspeito,uf,BA,287,153,53.31
-faixa_etaria_do_suspeito,uf,CE,325,198,60.92
-faixa_etaria_do_suspeito,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,457,59.12
-faixa_etaria_do_suspeito,uf,DF,177,85,48.02
-faixa_etaria_do_suspeito,uf,ES,138,33,23.91
+faixa_etaria_do_suspeito,uf,BA,287,124,43.21
+faixa_etaria_do_suspeito,uf,CE,325,257,79.08
+faixa_etaria_do_suspeito,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,364,47.09
+faixa_etaria_do_suspeito,uf,DF,177,68,38.42
+faixa_etaria_do_suspeito,uf,ES,138,24,17.39
 faixa_etaria_do_suspeito,uf,GO,200,38,19.0
 faixa_etaria_do_suspeito,uf,MA,56,32,57.14
-faixa_etaria_do_suspeito,uf,MG,975,483,49.54
-faixa_etaria_do_suspeito,uf,MS,191,174,91.1
-faixa_etaria_do_suspeito,uf,MT,39,26,66.67
-faixa_etaria_do_suspeito,uf,N/D,136,0,0.0
-faixa_etaria_do_suspeito,uf,PA,74,40,54.05
-faixa_etaria_do_suspeito,uf,PB,41,16,39.02
-faixa_etaria_do_suspeito,uf,PE,231,58,25.11
-faixa_etaria_do_suspeito,uf,PI,3,0,0.0
-faixa_etaria_do_suspeito,uf,PR,276,110,39.86
-faixa_etaria_do_suspeito,uf,RJ,611,323,52.86
+faixa_etaria_do_suspeito,uf,MG,975,480,49.23
+faixa_etaria_do_suspeito,uf,MS,191,157,82.2
+faixa_etaria_do_suspeito,uf,MT,39,21,53.85
+faixa_etaria_do_suspeito,uf,PA,74,31,41.89
+faixa_etaria_do_suspeito,uf,PB,41,12,29.27
+faixa_etaria_do_suspeito,uf,PE,231,39,16.88
+faixa_etaria_do_suspeito,uf,PI,3,3,100.0
+faixa_etaria_do_suspeito,uf,PR,276,101,36.59
+faixa_etaria_do_suspeito,uf,RJ,611,143,23.4
 faixa_etaria_do_suspeito,uf,RN,193,12,6.22
 faixa_etaria_do_suspeito,uf,RO,50,15,30.0
-faixa_etaria_do_suspeito,uf,RR,128,44,34.38
-faixa_etaria_do_suspeito,uf,RS,514,201,39.11
+faixa_etaria_do_suspeito,uf,RR,128,7,5.47
+faixa_etaria_do_suspeito,uf,RS,514,144,28.02
 faixa_etaria_do_suspeito,uf,SC,153,65,42.48
-faixa_etaria_do_suspeito,uf,SE,101,26,25.74
-faixa_etaria_do_suspeito,uf,SP,1797,855,47.58
+faixa_etaria_do_suspeito,uf,SE,101,27,26.73
+faixa_etaria_do_suspeito,uf,SP,1797,647,36.0
 faixa_etaria_do_suspeito,uf,TO,14,0,0.0
-faixa_etaria_do_suspeito,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,0,0.0
-faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,662,59.53
-faixa_etaria_do_suspeito,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,714,51.11
-faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,2309,44.39
-faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,57,24.05
-faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,0,0.0
+faixa_etaria_do_suspeito,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,47,44.76
+faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,580,52.16
+faixa_etaria_do_suspeito,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,500,35.79
+faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,1908,36.68
+faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,41,17.3
+faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,14,87.5
 faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,21,42.86
-faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,0,0.0
-faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,71,36.79
-faixa_etaria_do_suspeito,denuncia_emergencial,N/D,1,0,0.0
-faixa_etaria_do_suspeito,denuncia_emergencial,NÃO,7646,3504,45.83
-faixa_etaria_do_suspeito,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,320,50.47
-faixa_etaria_do_suspeito,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,5,4.35
+faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,59,65.56
+faixa_etaria_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,42,21.76
+faixa_etaria_do_suspeito,denuncia_emergencial,NÃO,7646,2987,39.07
+faixa_etaria_do_suspeito,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,190,29.97
+faixa_etaria_do_suspeito,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,29,25.22
 faixa_etaria_do_suspeito,denuncia_emergencial,VÍTIMA EM SANGRAMENTO,5,5,100.0
-raca_cor_do_suspeito,canal_de_atendimento,CARTA,1,0,0.0
-raca_cor_do_suspeito,canal_de_atendimento,E-MAIL,641,619,96.57
-raca_cor_do_suspeito,canal_de_atendimento,PORTAL,29,27,93.1
-raca_cor_do_suspeito,canal_de_atendimento,PROCESSO SEI,84,84,100.0
-raca_cor_do_suspeito,canal_de_atendimento,TELEFÔNICO,6091,2834,46.53
+raca_cor_do_suspeito,canal_de_atendimento,CARTA,1,1,100.0
+raca_cor_do_suspeito,canal_de_atendimento,E-MAIL,641,535,83.46
+raca_cor_do_suspeito,canal_de_atendimento,PORTAL,29,7,24.14
+raca_cor_do_suspeito,canal_de_atendimento,PROCESSO SEI,84,61,72.62
+raca_cor_do_suspeito,canal_de_atendimento,TELEFÔNICO,6091,2475,40.63
 raca_cor_do_suspeito,canal_de_atendimento,TELEGRAM,14,6,42.86
-raca_cor_do_suspeito,canal_de_atendimento,WEBCHAT,46,6,13.04
-raca_cor_do_suspeito,canal_de_atendimento,WHATSAPP,1495,1096,73.31
+raca_cor_do_suspeito,canal_de_atendimento,WEBCHAT,46,32,69.57
+raca_cor_do_suspeito,canal_de_atendimento,WHATSAPP,1495,971,64.95
 raca_cor_do_suspeito,uf,AC,93,0,0.0
-raca_cor_do_suspeito,uf,AL,10,3,30.0
-raca_cor_do_suspeito,uf,AM,210,126,60.0
+raca_cor_do_suspeito,uf,AL,10,0,0.0
+raca_cor_do_suspeito,uf,AM,210,17,8.1
 raca_cor_do_suspeito,uf,AP,14,14,100.0
-raca_cor_do_suspeito,uf,ATENDIMENTO INTERROMPIDO,18,18,100.0
-raca_cor_do_suspeito,uf,BA,287,173,60.28
-raca_cor_do_suspeito,uf,CE,325,206,63.38
-raca_cor_do_suspeito,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,516,66.75
-raca_cor_do_suspeito,uf,DF,177,86,48.59
-raca_cor_do_suspeito,uf,ES,138,57,41.3
-raca_cor_do_suspeito,uf,GO,200,82,41.0
+raca_cor_do_suspeito,uf,BA,287,156,54.36
+raca_cor_do_suspeito,uf,CE,325,262,80.62
+raca_cor_do_suspeito,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,459,59.38
+raca_cor_do_suspeito,uf,DF,177,80,45.2
+raca_cor_do_suspeito,uf,ES,138,43,31.16
+raca_cor_do_suspeito,uf,GO,200,74,37.0
 raca_cor_do_suspeito,uf,MA,56,46,82.14
-raca_cor_do_suspeito,uf,MG,975,643,65.95
-raca_cor_do_suspeito,uf,MS,191,174,91.1
-raca_cor_do_suspeito,uf,MT,39,27,69.23
-raca_cor_do_suspeito,uf,N/D,136,0,0.0
-raca_cor_do_suspeito,uf,PA,74,44,59.46
-raca_cor_do_suspeito,uf,PB,41,16,39.02
-raca_cor_do_suspeito,uf,PE,231,66,28.57
-raca_cor_do_suspeito,uf,PI,3,0,0.0
-raca_cor_do_suspeito,uf,PR,276,148,53.62
-raca_cor_do_suspeito,uf,RJ,611,294,48.12
-raca_cor_do_suspeito,uf,RN,193,37,19.17
-raca_cor_do_suspeito,uf,RO,50,45,90.0
-raca_cor_do_suspeito,uf,RR,128,50,39.06
-raca_cor_do_suspeito,uf,RS,514,261,50.78
-raca_cor_do_suspeito,uf,SC,153,83,54.25
-raca_cor_do_suspeito,uf,SE,101,26,25.74
-raca_cor_do_suspeito,uf,SP,1797,998,55.54
+raca_cor_do_suspeito,uf,MG,975,504,51.69
+raca_cor_do_suspeito,uf,MS,191,160,83.77
+raca_cor_do_suspeito,uf,MT,39,22,56.41
+raca_cor_do_suspeito,uf,PA,74,35,47.3
+raca_cor_do_suspeito,uf,PB,41,21,51.22
+raca_cor_do_suspeito,uf,PE,231,48,20.78
+raca_cor_do_suspeito,uf,PI,3,3,100.0
+raca_cor_do_suspeito,uf,PR,276,140,50.72
+raca_cor_do_suspeito,uf,RJ,611,182,29.79
+raca_cor_do_suspeito,uf,RN,193,35,18.13
+raca_cor_do_suspeito,uf,RO,50,15,30.0
+raca_cor_do_suspeito,uf,RR,128,13,10.16
+raca_cor_do_suspeito,uf,RS,514,205,39.88
+raca_cor_do_suspeito,uf,SC,153,73,47.71
+raca_cor_do_suspeito,uf,SE,101,27,26.73
+raca_cor_do_suspeito,uf,SP,1797,931,51.81
 raca_cor_do_suspeito,uf,TO,14,0,0.0
-raca_cor_do_suspeito,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,0,0.0
-raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,907,81.56
-raca_cor_do_suspeito,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,847,60.63
-raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,2702,51.94
-raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,111,46.84
-raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,0,0.0
+raca_cor_do_suspeito,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,58,55.24
+raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,729,65.56
+raca_cor_do_suspeito,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,637,45.6
+raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,2436,46.83
+raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,51,21.52
+raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,14,87.5
 raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,21,42.86
-raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,0,0.0
-raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,84,43.52
-raca_cor_do_suspeito,denuncia_emergencial,N/D,1,0,0.0
-raca_cor_do_suspeito,denuncia_emergencial,NÃO,7646,4257,55.68
-raca_cor_do_suspeito,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,397,62.62
-raca_cor_do_suspeito,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,13,11.3
+raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,62,68.89
+raca_cor_do_suspeito,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,80,41.45
+raca_cor_do_suspeito,denuncia_emergencial,NÃO,7646,3705,48.46
+raca_cor_do_suspeito,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,336,53.0
+raca_cor_do_suspeito,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,41,35.65
 raca_cor_do_suspeito,denuncia_emergencial,VÍTIMA EM SANGRAMENTO,5,5,100.0
 motivacao,canal_de_atendimento,CARTA,1,0,0.0
-motivacao,canal_de_atendimento,E-MAIL,641,524,81.75
+motivacao,canal_de_atendimento,E-MAIL,641,531,82.84
 motivacao,canal_de_atendimento,PORTAL,29,7,24.14
 motivacao,canal_de_atendimento,PROCESSO SEI,84,35,41.67
-motivacao,canal_de_atendimento,TELEFÔNICO,6091,3865,63.45
-motivacao,canal_de_atendimento,TELEGRAM,14,2,14.29
-motivacao,canal_de_atendimento,WEBCHAT,46,2,4.35
-motivacao,canal_de_atendimento,WHATSAPP,1495,1030,68.9
+motivacao,canal_de_atendimento,TELEFÔNICO,6091,4061,66.67
+motivacao,canal_de_atendimento,TELEGRAM,14,7,50.0
+motivacao,canal_de_atendimento,WEBCHAT,46,11,23.91
+motivacao,canal_de_atendimento,WHATSAPP,1495,1034,69.16
 motivacao,uf,AC,93,82,88.17
 motivacao,uf,AL,10,6,60.0
-motivacao,uf,AM,210,82,39.05
+motivacao,uf,AM,210,102,48.57
 motivacao,uf,AP,14,13,92.86
-motivacao,uf,ATENDIMENTO INTERROMPIDO,18,14,77.78
-motivacao,uf,BA,287,162,56.45
+motivacao,uf,BA,287,166,57.84
 motivacao,uf,CE,325,199,61.23
-motivacao,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,592,76.58
-motivacao,uf,DF,177,135,76.27
-motivacao,uf,ES,138,78,56.52
-motivacao,uf,GO,200,61,30.5
-motivacao,uf,MA,56,45,80.36
-motivacao,uf,MG,975,621,63.69
+motivacao,uf,DENUNCIANTE NÃO SOUBE INFORMAR,773,597,77.23
+motivacao,uf,DF,177,136,76.84
+motivacao,uf,ES,138,81,58.7
+motivacao,uf,GO,200,76,38.0
+motivacao,uf,MA,56,49,87.5
+motivacao,uf,MG,975,647,66.36
 motivacao,uf,MS,191,168,87.96
 motivacao,uf,MT,39,32,82.05
-motivacao,uf,N/D,136,0,0.0
-motivacao,uf,PA,74,45,60.81
-motivacao,uf,PB,41,19,46.34
-motivacao,uf,PE,231,151,65.37
+motivacao,uf,PA,74,47,63.51
+motivacao,uf,PB,41,24,58.54
+motivacao,uf,PE,231,161,69.7
 motivacao,uf,PI,3,0,0.0
-motivacao,uf,PR,276,163,59.06
-motivacao,uf,RJ,611,373,61.05
+motivacao,uf,PR,276,176,63.77
+motivacao,uf,RJ,611,398,65.14
 motivacao,uf,RN,193,161,83.42
 motivacao,uf,RO,50,39,78.0
-motivacao,uf,RR,128,81,63.28
-motivacao,uf,RS,514,311,60.51
-motivacao,uf,SC,153,76,49.67
-motivacao,uf,SE,101,79,78.22
-motivacao,uf,SP,1797,1185,65.94
+motivacao,uf,RR,128,83,64.84
+motivacao,uf,RS,514,316,61.48
+motivacao,uf,SC,153,84,54.9
+motivacao,uf,SE,101,80,79.21
+motivacao,uf,SP,1797,1244,69.23
 motivacao,uf,TO,14,10,71.43
-motivacao,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,0,0.0
+motivacao,grupo_vulneravel,VIOLAÇÃO DE DIREITOS HUMANOS,105,25,23.81
 motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA A MULHER,1112,980,88.13
 motivacao,grupo_vulneravel,"VIOLÊNCIA CONTRA CIDADÃO, FAMÍLIA OU COMUNIDADE",1397,1035,74.09
-motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,3124,60.05
+motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,3285,63.15
 motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA COM DEFICIÊNCIA,237,155,65.4
-motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,0,0.0
-motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,27,55.1
-motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,0,0.0
+motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA EM SITUAÇÃO DE RUA,16,4,25.0
+motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA IDOSA,49,30,61.22
+motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA PESSOA SOCIALMENTE VULNERÁVEL,90,28,31.11
 motivacao,grupo_vulneravel,VIOLÊNCIA CONTRA POPULAÇÃO LGBTQIA+,193,144,74.61
-motivacao,denuncia_emergencial,N/D,1,0,0.0
-motivacao,denuncia_emergencial,NÃO,7646,5068,66.28
-motivacao,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,384,60.57
-motivacao,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,11,9.57
+motivacao,denuncia_emergencial,NÃO,7646,5227,68.36
+motivacao,denuncia_emergencial,RISCO IMINENTE DE MORTE DA VÍTIMA,634,422,66.56
+motivacao,denuncia_emergencial,SITUAÇÃO FLAGRANTE - ATÉ 24H DA OCORRÊNCIA - SEM FREQUÊNCIA,115,35,30.43
 motivacao,denuncia_emergencial,VÍTIMA EM SANGRAMENTO,5,2,40.0

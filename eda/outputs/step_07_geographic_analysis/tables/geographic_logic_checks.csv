@@ -1,13 +1,13 @@
 ﻿role,rule,violations,percent_rows
-complaint,Brazil requires UF review,0,0.0
-complaint,UF must be one of 27 official codes,927,11.03
+complaint,Brazil requires UF review,99,1.18
+complaint,UF must be one of 27 official codes,773,9.2
 complaint,Non-Brazil country with Brazilian UF,6096,72.56
 complaint,Valid UF with missing municipality,0,0.0
-victim,Brazil requires UF review,0,0.0
-victim,UF must be one of 27 official codes,1416,16.86
+victim,Brazil requires UF review,10,0.12
+victim,UF must be one of 27 official codes,1228,14.62
 victim,Non-Brazil country with Brazilian UF,5598,66.63
-victim,Valid UF with missing municipality,53,0.63
-suspect,Brazil requires UF review,0,0.0
-suspect,UF must be one of 27 official codes,1202,14.31
+victim,Valid UF with missing municipality,71,0.85
+suspect,Brazil requires UF review,75,0.89
+suspect,UF must be one of 27 official codes,1000,11.9
 suspect,Non-Brazil country with Brazilian UF,5935,70.65
-suspect,Valid UF with missing municipality,46,0.55
+suspect,Valid UF with missing municipality,73,0.87

@@ -1,7 +1,7 @@
 ﻿outcome,group,test,groups,n_complete,statistic,p_value,p_fdr_bh,significant_fdr
-sl_quantidade_vitimas,denuncia_emergencial,Kruskal-Wallis,5,8401,232.86417461344476,3.1913449300358543e-49,3.8296139160430246e-49,True
+sl_quantidade_vitimas,denuncia_emergencial,Kruskal-Wallis,4,8400,230.04723532683204,1.350833499193723e-49,1.6210001990324676e-49,True
 sl_quantidade_vitimas,grupo_vulneravel,Kruskal-Wallis,9,8401,923.9467720515225,3.8550550020315344e-194,2.3130330012189208e-193,True
 sl_quantidade_vitimas,violacao,Kruskal-Wallis,15,8211,161.31181328307431,3.865334159726833e-27,3.865334159726833e-27,True
 sl_quantidade_vitimas,cenario_da_violacao,Kruskal-Wallis,15,8401,622.2295709886481,9.844335921098534e-124,1.9688671842197068e-123,True
 sl_quantidade_vitimas,canal_de_atendimento,Kruskal-Wallis,8,8401,515.9787656028944,2.939513834283903e-107,4.4092707514258544e-107,True
-sl_quantidade_vitimas,uf,Kruskal-Wallis,15,7828,623.6686269286039,4.860705724509749e-124,1.4582117173529248e-123,True
+sl_quantidade_vitimas,uf,Kruskal-Wallis,15,7674,786.0923463412076,1.0428174417822265e-158,3.1284523253466796e-158,True

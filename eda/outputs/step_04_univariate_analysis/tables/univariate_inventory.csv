@@ -1,30 +1,30 @@
 ﻿column,dtype,total_n,valid_n,missing_n,missing_pct,unique_valid,mode,mode_n,mode_pct_valid
-deficiencia_do_suspeito,string,8401,1120,7281,86.67,4,NÃO,1114,99.46
-deficiencia_da_vitima,string,8401,1139,7262,86.44,6,NÃO,1088,95.52
+deficiencia_do_suspeito,string,8401,1146,7255,86.36,5,NÃO,1114,97.21
+deficiencia_da_vitima,string,8401,1171,7230,86.06,7,NÃO,1088,92.91
 motivacao,string,8401,2715,5686,67.68,86,OUTRO(S) ELEMENTO(S),773,28.47
-raca_cor_do_suspeito,string,8401,3301,5100,60.71,4,BRANCA,1715,51.95
-suspeito_preso,string,8401,3372,5029,59.86,7,NÃO,3121,92.56
-faixa_etaria_do_suspeito,string,8401,4234,4167,49.6,17,30 A 34 ANOS,716,16.91
-raca_cor_da_vitima,string,8401,4382,4019,47.84,5,BRANCA,2014,45.96
-vitima_preso_a,string,8401,4655,3746,44.59,1,NÃO,4655,100.0
-orientacao_sexual_da_vitima,string,8401,4694,3707,44.13,8,NÃO,4313,91.88
-orientacao_sexual_do_suspeito,string,8401,5723,2678,31.88,9,NÃO,5585,97.59
-genero_do_suspeito,string,8401,6268,2133,25.39,4,MASCULINO,3127,49.89
+raca_cor_do_suspeito,string,8401,4313,4088,48.66,5,BRANCA,1715,39.76
+suspeito_preso,string,8401,4848,3553,42.29,8,NÃO,3121,64.38
+orientacao_sexual_da_vitima,string,8401,5085,3316,39.47,9,NÃO,4313,84.82
+faixa_etaria_do_suspeito,string,8401,5189,3212,38.23,18,NÃO INFORMADO,955,18.4
+vitima_preso_a,string,8401,5198,3203,38.13,2,NÃO,4655,89.55
+orientacao_sexual_do_suspeito,string,8401,5798,2603,30.98,10,NÃO,5585,96.33
+genero_do_suspeito,string,8401,6486,1915,22.79,5,MASCULINO,3127,48.21
 doenca_rara_do_suspeito,string,8401,6537,1864,22.19,1,NÃO,6537,100.0
-genero_da_vitima,string,8401,6593,1808,21.52,4,FEMININO,4100,62.19
-frequencia,string,8401,6831,1570,18.69,5,DIARIAMENTE,5173,75.73
-inicio_das_violacoes,string,8401,6873,1528,18.19,7,HÁ MAIS DE UM ANO,2193,31.91
-municipio,string,8401,6875,1526,18.16,310,3170206 | UBERLÂNDIA,306,4.45
-uf,string,8401,6901,1500,17.86,27,SP,1797,26.04
+genero_da_vitima,string,8401,6913,1488,17.71,5,FEMININO,4100,59.31
 doenca_rara_da_vitima,string,8401,6918,1483,17.65,1,NÃO,6918,100.0
-faixa_etaria_da_vitima,string,8401,7926,475,5.65,39,CRIANÇA/ADOLESCENTE IDADE NÃO INFORMADA,1191,15.03
-relacao_vitima_suspeito,string,8401,7987,414,4.93,38,OUTROS,3726,46.65
-cenario_da_violacao,string,8401,8159,242,2.88,27,CASA ONDE RESIDE A VÍTIMA E O SUSPEITO,1776,21.77
+raca_cor_da_vitima,string,8401,7592,809,9.63,6,NÃO INFORMADO,3210,42.28
+municipio,string,8401,7656,745,8.87,311,DENUNCIANTE NÃO SOUBE INFORMAR,781,10.2
+uf,string,8401,7674,727,8.65,28,SP,1797,23.42
+faixa_etaria_da_vitima,string,8401,7996,405,4.82,40,CRIANÇA/ADOLESCENTE IDADE NÃO INFORMADA,1191,14.89
 suspeito_nacionalidade,string,8401,8206,195,2.32,19,BR | BRASIL,7238,88.2
 violacao,string,8401,8211,190,2.26,100,INTEGRIDADE>PSÍQUICA>TORTURA PSÍQUICA,535,6.52
 nacionalidade_da_vitima,string,8401,8304,97,1.15,9,BR | BRASIL,7383,88.91
+relacao_vitima_suspeito,string,8401,8372,29,0.35,39,OUTROS,3726,44.51
+inicio_das_violacoes,string,8401,8378,23,0.27,8,HÁ MAIS DE UM ANO,2193,26.18
+frequencia,string,8401,8384,17,0.2,6,DIARIAMENTE,5173,61.7
 denuncia_emergencial,string,8401,8400,1,0.01,4,NÃO,7646,91.02
 pais,string,8401,8401,0,0.0,29,BR | BRASIL,6498,77.35
+cenario_da_violacao,string,8401,8401,0,0.0,28,CASA ONDE RESIDE A VÍTIMA E O SUSPEITO,1776,21.14
 grupo_vulneravel,string,8401,8401,0,0.0,9,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,61.92
 canal_de_atendimento,string,8401,8401,0,0.0,8,TELEFÔNICO,6091,72.5
 denunciante,string,8401,8401,0,0.0,6,TERCEIRO,6642,79.06
