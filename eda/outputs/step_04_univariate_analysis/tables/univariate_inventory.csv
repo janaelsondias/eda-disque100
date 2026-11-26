@@ -1,31 +1,31 @@
 ﻿column,dtype,total_n,valid_n,missing_n,missing_pct,unique_valid,mode,mode_n,mode_pct_valid
 deficiencia_do_suspeito,string,8401,1146,7255,86.36,5,NÃO,1114,97.21
-deficiencia_da_vitima,string,8401,1171,7230,86.06,7,NÃO,1088,92.91
-motivacao,string,8401,2715,5686,67.68,86,OUTRO(S) ELEMENTO(S),773,28.47
-raca_cor_do_suspeito,string,8401,4313,4088,48.66,5,BRANCA,1715,39.76
-suspeito_preso,string,8401,4848,3553,42.29,8,NÃO,3121,64.38
-orientacao_sexual_da_vitima,string,8401,5085,3316,39.47,9,NÃO,4313,84.82
-faixa_etaria_do_suspeito,string,8401,5189,3212,38.23,18,NÃO INFORMADO,955,18.4
-vitima_preso_a,string,8401,5198,3203,38.13,2,NÃO,4655,89.55
-orientacao_sexual_do_suspeito,string,8401,5798,2603,30.98,10,NÃO,5585,96.33
-genero_do_suspeito,string,8401,6486,1915,22.79,5,MASCULINO,3127,48.21
+violacao_subespecie,string,8401,1162,7239,86.17,23,EXPLORAÇÃO SEXUAL,352,30.29
+deficiencia_da_vitima,string,8401,1171,7230,86.06,6,NÃO,1088,92.91
+motivacao,str,8401,2715,5686,67.68,86,OUTRO(S) ELEMENTO(S),773,28.47
+raca_cor_do_suspeito,str,8401,4313,4088,48.66,5,BRANCA,1715,39.76
+suspeito_preso,str,8401,4848,3553,42.29,8,NÃO,3121,64.38
+orientacao_sexual_da_vitima,str,8401,5085,3316,39.47,9,NÃO,4313,84.82
+faixa_etaria_do_suspeito,str,8401,5189,3212,38.23,18,NÃO INFORMADO,955,18.4
+vitima_preso_a,str,8401,5198,3203,38.13,2,NÃO,4655,89.55
+orientacao_sexual_do_suspeito,str,8401,5798,2603,30.98,10,NÃO,5585,96.33
+genero_do_suspeito,str,8401,6486,1915,22.79,5,MASCULINO,3127,48.21
 doenca_rara_do_suspeito,string,8401,6537,1864,22.19,1,NÃO,6537,100.0
-genero_da_vitima,string,8401,6913,1488,17.71,5,FEMININO,4100,59.31
+genero_da_vitima,str,8401,6913,1488,17.71,5,FEMININO,4100,59.31
 doenca_rara_da_vitima,string,8401,6918,1483,17.65,1,NÃO,6918,100.0
-raca_cor_da_vitima,string,8401,7592,809,9.63,6,NÃO INFORMADO,3210,42.28
-municipio,string,8401,7656,745,8.87,311,DENUNCIANTE NÃO SOUBE INFORMAR,781,10.2
-uf,string,8401,7674,727,8.65,28,SP,1797,23.42
-faixa_etaria_da_vitima,string,8401,7996,405,4.82,40,CRIANÇA/ADOLESCENTE IDADE NÃO INFORMADA,1191,14.89
-suspeito_nacionalidade,string,8401,8206,195,2.32,19,BR | BRASIL,7238,88.2
-violacao,string,8401,8211,190,2.26,100,INTEGRIDADE>PSÍQUICA>TORTURA PSÍQUICA,535,6.52
-nacionalidade_da_vitima,string,8401,8304,97,1.15,9,BR | BRASIL,7383,88.91
+raca_cor_da_vitima,str,8401,7592,809,9.63,6,NÃO INFORMADO,3210,42.28
+municipio,str,8401,7674,727,8.65,312,NÃO INFORMADO,781,10.18
+uf,str,8401,7692,709,8.44,29,SP,1797,23.36
+faixa_etaria_da_vitima_recodificada,string,8401,7926,475,5.65,8,Adolescente (12 a 17 anos),2179,27.49
+suspeito_nacionalidade_nome,string,8401,8206,195,2.32,18,BRASIL,7964,97.05
+violacao_especie,string,8401,8211,190,2.26,80,TRÁFICO DE PESSOAS,753,9.17
+nacionalidade_da_vitima_nome,string,8401,8304,97,1.15,8,BRASIL,8162,98.29
 relacao_vitima_suspeito,string,8401,8372,29,0.35,39,OUTROS,3726,44.51
-inicio_das_violacoes,string,8401,8378,23,0.27,8,HÁ MAIS DE UM ANO,2193,26.18
-frequencia,string,8401,8384,17,0.2,6,DIARIAMENTE,5173,61.7
-denuncia_emergencial,string,8401,8400,1,0.01,4,NÃO,7646,91.02
-pais,string,8401,8401,0,0.0,29,BR | BRASIL,6498,77.35
-cenario_da_violacao,string,8401,8401,0,0.0,28,CASA ONDE RESIDE A VÍTIMA E O SUSPEITO,1776,21.14
-grupo_vulneravel,string,8401,8401,0,0.0,9,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,61.92
-canal_de_atendimento,string,8401,8401,0,0.0,8,TELEFÔNICO,6091,72.5
-denunciante,string,8401,8401,0,0.0,6,TERCEIRO,6642,79.06
-natureza_juridica_do_suspeito,string,8401,8401,0,0.0,6,PESSOA FÍSICA,6522,77.63
+inicio_das_violacoes,str,8401,8378,23,0.27,8,HÁ MAIS DE UM ANO,2193,26.18
+frequencia,str,8401,8384,17,0.2,6,DIARIAMENTE,5173,61.7
+denuncia_emergencial,str,8401,8400,1,0.01,4,NÃO,7646,91.02
+cenario_da_violacao,str,8401,8401,0,0.0,28,CASA ONDE RESIDE A VÍTIMA E O SUSPEITO,1776,21.14
+grupo_vulneravel,str,8401,8401,0,0.0,9,VIOLÊNCIA CONTRA CRIANÇA OU ADOLESCENTE,5202,61.92
+canal_de_atendimento,str,8401,8401,0,0.0,8,TELEFÔNICO,6091,72.5
+denunciante,str,8401,8401,0,0.0,6,TERCEIRO,6642,79.06
+natureza_juridica_do_suspeito,str,8401,8401,0,0.0,6,PESSOA FÍSICA,6522,77.63

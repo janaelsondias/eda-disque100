@@ -1,6 +1,7 @@
 ﻿column,finding_type,finding,implication
 deficiencia_do_suspeito,very_high_missingness,86.36% missing,Restrict interpretation to the observed subset and assess conditional applicability.
 deficiencia_do_suspeito,dominant_category,Top category represents 97.21% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+violacao_subespecie,very_high_missingness,86.17% missing,Restrict interpretation to the observed subset and assess conditional applicability.
 deficiencia_da_vitima,very_high_missingness,86.06% missing,Restrict interpretation to the observed subset and assess conditional applicability.
 deficiencia_da_vitima,dominant_category,Top category represents 92.91% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
 motivacao,high_missingness,67.68% missing,Report the denominator and evaluate missingness mechanisms before subgroup analysis.
@@ -9,5 +10,7 @@ suspeito_preso,high_missingness,42.29% missing,Report the denominator and evalua
 orientacao_sexual_do_suspeito,dominant_category,Top category represents 96.33% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
 doenca_rara_do_suspeito,dominant_category,Top category represents 100.00% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
 doenca_rara_da_vitima,dominant_category,Top category represents 100.00% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
-municipio,high_cardinality,311 valid categories,"Use top-N charts and review grouping, hierarchy, spelling, and disclosure risk."
+municipio,high_cardinality,312 valid categories,"Use top-N charts and review grouping, hierarchy, spelling, and disclosure risk."
+suspeito_nacionalidade_nome,dominant_category,Top category represents 97.05% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
+nacionalidade_da_vitima_nome,dominant_category,Top category represents 98.29% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."
 denuncia_emergencial,dominant_category,Top category represents 91.02% of valid observations,"Verify whether this reflects the phenomenon, a default response, or collection design."

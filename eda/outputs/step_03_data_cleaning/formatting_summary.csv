@@ -11,8 +11,8 @@ municipio,0
 frequencia,0
 inicio_das_violacoes,0
 grupo_vulneravel,0
-motivacao,32
-relacao_vitima_suspeito,0
+motivacao,228
+relacao_vitima_suspeito,14
 sl_vitima_cadastro,0
 genero_da_vitima,0
 orientacao_sexual_da_vitima,0
@@ -58,4 +58,4 @@ faixa_de_renda_do_suspeito,0
 sl_suspeito_ramo,446
 suspeito_especificacao_etnia,0
 vitima_especificacao_etnia,0
-violacao,557
+violacao,579
