@@ -9,10 +9,16 @@ complaint_frequencia.html
 complaint_inicio_das_violacoes.html
 geography_municipio.html
 geography_municipio_da_vitima.html
+geography_municipio_da_vitima_nome.html
+geography_municipio_nome.html
 geography_pais.html
 geography_pais_da_vitima.html
+geography_pais_da_vitima_nome.html
 geography_pais_do_suspeito.html
+geography_pais_do_suspeito_nome.html
+geography_pais_nome.html
 geography_sl_suspeito_municipio.html
+geography_sl_suspeito_municipio_nome.html
 geography_uf.html
 geography_uf_da_vitima.html
 geography_uf_do_suspeito.html

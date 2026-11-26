@@ -1,0 +1,92 @@
+﻿etapa,objeto,quantidade,regra,justificativa
+Conversão de ausência implícita,inicio_das_violacoes,1046,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,relacao_vitima_suspeito,317,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,genero_da_vitima,320,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,orientacao_sexual_da_vitima,391,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,faixa_etaria_da_vitima,70,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,deficiencia_da_vitima,32,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,vitima_preso_a,543,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,religiao_da_vitima,260,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,raca_cor_da_vitima,3210,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,genero_do_suspeito,218,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,orientacao_sexual_do_suspeito,75,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,faixa_etaria_do_suspeito,955,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,deficiencia_do_suspeito,26,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,suspeito_preso,1476,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,religiao_do_suspeito,120,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,raca_cor_do_suspeito,1012,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,suspeito_especificacao_etnia,39,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Conversão de ausência implícita,vitima_especificacao_etnia,28,Marcadores semânticos/códigos -> NaN,Representação uniforme da ausência
+Padronização textual,hash,947,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,canal_de_atendimento,6091,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,denuncia_emergencial,8400,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,denunciante,1759,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,cenario_da_violacao,4508,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,pais,708,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,uf,773,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,municipio,4020,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,frequencia,2422,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,inicio_das_violacoes,7332,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,grupo_vulneravel,8401,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,motivacao,1729,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,relacao_vitima_suspeito,1947,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,sl_vitima_cadastro,8178,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,genero_da_vitima,345,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,orientacao_sexual_da_vitima,4346,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,faixa_etaria_da_vitima,1307,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,nacionalidade_da_vitima,56,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,sl_vitima_naturalizado_uf,52,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,sl_vitima_naturalizado_municipio,85,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,deficiencia_da_vitima,1093,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,doenca_rara_da_vitima,6918,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,deficiencia_relacionada_a_doenca_rara,187,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,vitima_preso_a,4655,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,pais_da_vitima,643,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,uf_da_vitima,1228,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,municipio_da_vitima,3982,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,profissao_da_vitima,281,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,grau_de_instrucao_da_vitima,299,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,religiao_da_vitima,48,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,raca_cor_da_vitima,202,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,etnia_da_vitima,5,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,faixa_de_renda_da_vitima,69,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,natureza_juridica_do_suspeito,8326,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,genero_do_suspeito,49,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,orientacao_sexual_do_suspeito,5628,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,faixa_etaria_do_suspeito,31,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,suspeito_nacionalidade,155,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,sl_suspeito_naturalizado_uf,98,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,sl_suspeito_naturalizado_municipio,135,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,deficiencia_do_suspeito,1117,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,doenca_rara_do_suspeito,6537,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,deficiencia_relacionada_a_doenca_rara_suspeito,947,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,suspeito_preso,3313,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,pais_do_suspeito,539,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,uf_do_suspeito,1000,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,sl_suspeito_municipio,3982,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,profissao_do_suspeito,4028,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,grau_de_instrucao_do_suspeito,58,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,religiao_do_suspeito,136,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,faixa_de_renda_do_suspeito,61,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,sl_suspeito_ramo,1027,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Padronização textual,violacao,7610,"Maiúsculas, trim, espaços e acentos",Uniformizar categorias
+Remoção de duplicatas,linhas,2,Duplicatas exatas,Unicidade
+Remoção por alta ausência,sl_vitima_naturalidade,8081,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,sl_vitima_naturalizado_uf,8139,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,sl_vitima_naturalizado_municipio,8187,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,deficiencia_relacionada_a_doenca_rara,8212,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,profissao_da_vitima,7024,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,grau_de_instrucao_da_vitima,6741,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,religiao_da_vitima,7444,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,etnia_da_vitima,7420,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,faixa_de_renda_da_vitima,7436,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,sl_suspeito_naturalidade,8013,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,sl_suspeito_naturalizado_uf,8044,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,sl_suspeito_naturalizado_municipio,8129,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,deficiencia_relacionada_a_doenca_rara_suspeito,7452,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,grau_de_instrucao_do_suspeito,7452,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,religiao_do_suspeito,7349,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,suspeito_etnia,7414,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,faixa_de_renda_do_suspeito,7452,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,suspeito_especificacao_etnia,7464,>80% ausente,Baixa disponibilidade informacional
+Remoção por alta ausência,vitima_especificacao_etnia,7436,>80% ausente,Baixa disponibilidade informacional
