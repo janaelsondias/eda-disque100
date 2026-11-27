@@ -552,6 +552,7 @@ dependencies = [
     { name = "ipykernel" },
     { name = "jupyterlab" },
     { name = "matplotlib" },
+    { name = "mlxtend" },
     { name = "nbformat" },
     { name = "notebook" },
     { name = "numpy" },
@@ -569,6 +570,7 @@ requires-dist = [
     { name = "ipykernel", specifier = ">=7.4.0" },
     { name = "jupyterlab", specifier = ">=4.6.5" },
     { name = "matplotlib", specifier = ">=3.9" },
+    { name = "mlxtend", specifier = ">=0.25.0" },
     { name = "nbformat", specifier = ">=4.2.0" },
     { name = "notebook", specifier = ">=7.6.4" },
     { name = "numpy", specifier = ">=2.0" },
@@ -1394,6 +1396,23 @@ source = { registry = "https://repo.bcnet.bcb.gov.br/api/pypi/pypi/simple" }
 sdist = { url = "https://repo.bcnet.bcb.gov.br/api/pypi/pypi/packages/packages/96/eb/749a4e69bf7396e751ae37444abe997eff2254e695a8095b84d1c89c1181/mistune-3.4.0.tar.gz", hash = "sha256:2eaf7952af928ca8d33b779762effc1da517b62c6ad85ec8ca957e3b07b9782a" }
 wheels = [
     { url = "https://repo.bcnet.bcb.gov.br/api/pypi/pypi/packages/packages/2c/f7/021d590d52c1ac28e3290311776854c6a1c927fa3fb4b25ce74caf937a3d/mistune-3.4.0-py3-none-any.whl", hash = "sha256:d03cec4c8620f21517a996d82d14f3b59c30d79bda2cc6c56bd32b839f18ce6b" },
+]
+
+[[package]]
+name = "mlxtend"
+version = "0.25.0"
+source = { registry = "https://repo.bcnet.bcb.gov.br/api/pypi/pypi/simple" }
+dependencies = [
+    { name = "joblib" },
+    { name = "matplotlib" },
+    { name = "numpy" },
+    { name = "pandas" },
+    { name = "scikit-learn" },
+    { name = "scipy" },
+]
+sdist = { url = "https://repo.bcnet.bcb.gov.br/api/pypi/pypi/packages/packages/a5/c2/a257a9b3f2f989729c6c88d127be0d832cc6defbab564c97c1e410de4697/mlxtend-0.25.0.tar.gz", hash = "sha256:7fd52f1c55ea80036945490ea54c497aa2251ac03cf8e728cde12275d2169bcc" }
+wheels = [
+    { url = "https://repo.bcnet.bcb.gov.br/api/pypi/pypi/packages/packages/61/b8/bda63104fa9e3c4e88bd158b664d21b66667fbee3eb35f737dd329dc26a3/mlxtend-0.25.0-py3-none-any.whl", hash = "sha256:71b9500d9cb506642588995783d681a30c99a3b35abfbeb7b4e800d217fc12a5" },
 ]
 
 [[package]]

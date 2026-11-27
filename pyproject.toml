@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=7.4.0",
     "jupyterlab>=4.6.5",
     "matplotlib>=3.9",
+    "mlxtend>=0.25.0",
     "nbformat>=4.2.0",
     "notebook>=7.6.4",
     "numpy>=2.0",
